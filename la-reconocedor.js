@@ -1,148 +1,167 @@
-const puppeteer = require('puppeteer');
+const axios = require('axios');
 const fs = require('fs');
 
 const CONFIG = {
-    targetUrl: 'https://www.liveaboard.com/diving/search/galapagos',
+    baseUrl: 'https://www.liveaboard.com/diving/search/galapagos',
     output_file: './data/reconocido-data.json',
+    delayBetweenRequests: 3000,
     markup: 0.15,
-    selectors: {
-        tripContainer: 'section.not-prose.mb-5.flex.flex-col.border.border-gray-300',
-        dates: 'li.px-3\\.5.py-2.border-t.border-gray-300'
-    }
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
 };
 
-async function reconoceLa() {
-    console.log('Starting l-a.com reconoce...');
+// Generate month URLs
+function generateMonthUrls() {
+    const urls = [];
+    const months = ['january', 'february', 'march', 'april', 'may', 'june', 
+                   'july', 'august', 'september', 'october', 'november', 'december'];
     
-    const browser = await puppeteer.launch({ 
-        headless: true,
-        args: [
-            '--no-sandbox',
-            '--disable-setuid-sandbox',
-            '--disable-dev-shm-usage',
-            '--disable-accelerated-2d-canvas',
-            '--no-first-run',
-            '--no-zygote',
-            '--disable-gpu'
-        ],
-        timeout: 60000
-    });
+    const now = new Date();
+    const startDate = new Date('2026-02-01');
+    const actualStart = now > startDate ? now : startDate;
+    const endDate = new Date('2028-12-31');
     
+    let current = new Date(actualStart.getFullYear(), actualStart.getMonth(), 1);
+    
+    while (current <= endDate) {
+        const month = months[current.getMonth()];
+        const year = current.getFullYear();
+        urls.push({
+            url: `${CONFIG.baseUrl}/${month}/${year}`,
+            month: month,
+            year: year
+        });
+        current.setMonth(current.getMonth() + 1);
+    }
+    
+    return urls;
+}
+
+// Extract embedded JSON
+function extractSearchData(html) {
     try {
-        const page = await browser.newPage();
-        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36');
-        
-        console.log(`Navigating to: ${CONFIG.targetUrl}`);
-        await page.goto(CONFIG.targetUrl, { waitUntil: 'networkidle2', timeout: 30000 });
-        await new Promise(r => setTimeout(r, 3000));
-        
-        const trips = await page.evaluate((selectors, markup) => {
-            const trips = [];
-            const containers = document.querySelectorAll(selectors.tripContainer);
-            
-            containers.forEach((container, containerIndex) => {
-                try {
-                    const tripName = (() => {
-                        for (const sel of ['h3', '.text-lg', '.text-xl', '[class*="font-bold"]']) {
-                            const el = container.querySelector(sel);
-                            if (el && el.textContent.trim().length > 3) return el.textContent.trim();
-                        }
-                        return `Trip ${containerIndex + 1}`;
-                    })();
-                    
-                    const description = (() => {
-                        for (const sel of ['.text-sm.text-gray-600', '.text-gray-600']) {
-                            const el = container.querySelector(sel);
-                            if (el) {
-                                const text = el.textContent.trim();
-                                if (text.length > 20 && !text.match(/\$\d+/) && !text.match(/available|FULL/i)) {
-                                    return text;
-                                }
-                            }
-                        }
-                        return '';
-                    })();
-                    
-                    const photo = (() => {
-                        const img = container.querySelector('img[src*="picture_library"]');
-                        return img ? { url: img.src, alt: img.alt || '' } : { url: '', alt: '' };
-                    })();
-                    
-                    const rating = (() => {
-                        const info = container.querySelector('div.relative.px-4.py-3.grow');
-                        if (info) {
-                            const match = info.textContent.match(/(\d+\.?\d*)\s*\d+\s*reviews?/i);
-                            return match ? match[1] : '';
-                        }
-                        return '';
-                    })();
-                    
-                    const dateItems = container.querySelectorAll(selectors.dates);
-                    dateItems.forEach((item) => {
-                        const fullText = item.textContent.trim();
-                        const dateMatch = fullText.match(/\d{1,2}\s+\w{3}\s+\d{4}|\d{1,2}\/\d{1,2}\/\d{4}/i);
-                        if (!dateMatch) return;
-                        
-                        const priceMatch = fullText.match(/\$\s*[\d,]+/);
-                        const availMatch = fullText.match(/(available|FULL|only\s+\d+\s+spaces?\s+left)/i);
-                        const durationMatch = fullText.match(/\d+D\/\d+N/i);
-                        
-                        const availability = availMatch ? availMatch[1].toLowerCase() : '';
-                        const isFull = availability.includes('full');
-                        const spotsMatch = availability.match(/(\d+)/);
-                        const spotsLeft = spotsMatch ? parseInt(spotsMatch[1]) : (availability.includes('available') ? 10 : 0);
-                        
-                        if (isFull || spotsLeft === 0) return;
-                        
-                        const priceStr = priceMatch ? priceMatch[0] : '';
-                        const originalPrice = parseFloat(priceStr.replace(/[^0-9.]/g, '')) || 0;
-                        const yourPrice = originalPrice > 0 ? (originalPrice * (1 + markup)).toFixed(2) : '';
-                        
-                        trips.push({
-                            name: tripName,
-                            date: dateMatch[0],
-                            duration: durationMatch ? durationMatch[0] : '',
-                            price: priceStr,
-                            availability: availability || 'unknown',
-                            isAvailable: availability.includes('available'),
-                            spotsLeft: spotsLeft,
-                            yourPrice: yourPrice ? `$${yourPrice}` : '',
-                            rating: rating,
-                            description: description,
-                            photo: photo,
-                            reconocidoAt: new Date().toISOString()
-                        });
-                    });
-                } catch (error) {
-                    console.error(`Error parsing container ${containerIndex}:`, error);
-                }
-            });
-            
-            return trips;
-        }, CONFIG.selectors, CONFIG.markup);
-        
-        console.log(`Found ${trips.length} available trips (FULL trips excluded)`);
-        
-        if (!fs.existsSync('./data')) {
-            fs.mkdirSync('./data');
+        const match = html.match(/searchResultItemList":\s*(\[[\s\S]*?\])(?=\s*,\s*"(?:availableHeaderText|availableHeaderTemplate|hasSelectedFilters|selectedFilters))/);
+        if (!match) return null;
+        return JSON.parse(match[1]);
+    } catch (error) {
+        return null;
+    }
+}
+
+// Transform to output format
+function transformBoatData(boat) {
+    const trips = [];
+    
+    if (!boat.cruiseSearchItineraryList || boat.cruiseSearchItineraryList.length === 0) {
+        return trips;
+    }
+    
+    boat.cruiseSearchItineraryList.forEach(itinerary => {
+        if (itinerary.availabilityText === 'soldout' || itinerary.isSoldOut || !itinerary.toursAvailable) {
+            return;
         }
         
-        const output = {
-            lastUpdated: new Date().toISOString(),
-            totalTrips: trips.length,
-            filteredOut: 'FULL trips excluded from results',
-            source: 'l-a.com',
-            trips: trips
-        };
+        const priceStr = String(itinerary.price || '0').replace(/,/g, '');
+        const price = parseFloat(priceStr);
+        const yourPrice = price > 0 ? (price * (1 + CONFIG.markup)).toFixed(2) : '';
         
-        fs.writeFileSync(CONFIG.output_file, JSON.stringify(output, null, 2));
-        console.log(`Data saved to ${CONFIG.output_file}`);
+        trips.push({
+            name: boat.boatName,
+            date: itinerary.departureDateFormatted,
+            duration: itinerary.daysNights,
+            price: price > 0 ? `$ ${price.toLocaleString()}` : '',
+            availability: itinerary.availabilityText || 'available',
+            isAvailable: itinerary.tourAvailability > 5,
+            spotsLeft: itinerary.tourAvailability || 10,
+            yourPrice: yourPrice ? `$${parseFloat(yourPrice).toLocaleString()}` : '',
+            rating: boat.starRating || '',
+            description: boat.snippet || '',
+            photo: {
+                url: boat.boatImageLink || '',
+                alt: boat.boatName
+            },
+            reconocidoAt: new Date().toISOString()
+        });
+    });
+    
+    return trips;
+}
+
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function reconoceLa() {
+    console.log('Starting l-a.com reconoce (comprehensive)...');
+    
+    const monthUrls = generateMonthUrls();
+    console.log(`Generated ${monthUrls.length} URLs to reconocer`);
+    
+    const allTrips = [];
+    let successCount = 0;
+    
+    for (let i = 0; i < monthUrls.length; i++) {
+        const { url, month, year } = monthUrls[i];
         
-        return output;
-        
-    } finally {
-        await browser.close();
+        try {
+            const response = await axios.get(url, {
+                headers: {
+                    'User-Agent': CONFIG.userAgent,
+                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                    'Accept-Language': 'en-US,en;q=0.9',
+                    'Connection': 'keep-alive'
+                },
+                timeout: 30000
+            });
+            
+            const boats = extractSearchData(response.data);
+            
+            if (boats) {
+                boats.forEach(boat => {
+                    const trips = transformBoatData(boat);
+                    allTrips.push(...trips);
+                });
+                successCount++;
+            }
+            
+            if (i < monthUrls.length - 1) {
+                await delay(CONFIG.delayBetweenRequests);
+            }
+            
+        } catch (error) {
+            console.error(`Error reconociendo ${month} ${year}`);
+        }
     }
+    
+    // Deduplicate
+    const uniqueTrips = [];
+    const seen = new Set();
+    
+    allTrips.forEach(trip => {
+        const key = `${trip.name}-${trip.date}`;
+        if (!seen.has(key)) {
+            seen.add(key);
+            uniqueTrips.push(trip);
+        }
+    });
+    
+    console.log(`Reconocido complete: ${uniqueTrips.length} trips from ${successCount} months`);
+    
+    if (!fs.existsSync('./data')) {
+        fs.mkdirSync('./data');
+    }
+    
+    const output = {
+        lastUpdated: new Date().toISOString(),
+        totalTrips: uniqueTrips.length,
+        filteredOut: 'FULL trips excluded from results',
+        source: 'l-a.com',
+        trips: uniqueTrips
+    };
+    
+    fs.writeFileSync(CONFIG.output_file, JSON.stringify(output, null, 2));
+    console.log(`Data saved to ${CONFIG.output_file}`);
+    
+    return output;
 }
 
 if (require.main === module) {

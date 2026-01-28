@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: '20'
       - name: Install dependencies
-        run: npm install puppeteer
+        run: npm install
       - name: Run l-a reconocedor
         run: node la-reconocedor.js
       - name: Commit and push data

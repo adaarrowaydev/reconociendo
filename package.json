@@ -1,12 +1,12 @@
 {
-  "name": "reconociendo",
+  "name": "reconocido-data",
   "version": "1.0.0",
-  "description": "reconociendo",
+  "description": "Data recognition service",
+  "main": "la-reconocedor.js",
   "scripts": {
-    "reconoce": "node la-reconocedor.js"
+    "reconocer": "node la-reconocedor.js"
   },
-  "license": "MIT",
   "dependencies": {
-    "puppeteer": "^24.0.0"
+    "axios": "^1.13.4"
   }
 }
