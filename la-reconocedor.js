@@ -14,12 +14,12 @@ function generateMonthUrls() {
     const urls = [];
     const months = ['january', 'february', 'march', 'april', 'may', 'june', 
                    'july', 'august', 'september', 'october', 'november', 'december'];
-    
+
     const now = new Date();
     const startDate = new Date('2026-02-01');
     const actualStart = now > startDate ? now : startDate;
     const endDate = new Date('2028-12-31');
-    
+
     let current = new Date(actualStart.getFullYear(), actualStart.getMonth(), 1);
     
     while (current <= endDate) {
@@ -47,7 +47,7 @@ function extractSearchData(html) {
     }
 }
 
-// Transform to output format
+// Transform to output format with discount data
 function transformBoatData(boat) {
     const trips = [];
     
@@ -59,20 +59,40 @@ function transformBoatData(boat) {
         if (itinerary.availabilityText === 'soldout' || itinerary.isSoldOut || !itinerary.toursAvailable) {
             return;
         }
-        
+
+        // Parse current/sale price
         const priceStr = String(itinerary.price || '0').replace(/,/g, '');
         const price = parseFloat(priceStr);
-        const yourPrice = price > 0 ? (price * (1 + CONFIG.markup)).toFixed(2) : '';
         
+        // Extract original price from crossedRate
+        const crossedRateStr = String(itinerary.crossedRate || '0').replace(/,/g, '');
+        const crossedRate = parseFloat(crossedRateStr);
+        
+        // Get discount percentage
+        let discountPct = itinerary.discount || itinerary.earlyBirdDiscountPercent || null;
+        if (!discountPct && crossedRate > 0 && price > 0 && crossedRate > price) {
+            discountPct = Math.round(((crossedRate - price) / crossedRate) * 100);
+        }
+        
+        const hasDiscount = itinerary.hasDiscount || itinerary.hasFixedPriceOffer || (crossedRate > price && crossedRate > 0);
+        
+        // yourPrice = original price (crossed out), or markup if no discount
+        const yourPrice = crossedRate > 0 ? crossedRate : (price > 0 ? (price * (1 + CONFIG.markup)).toFixed(2) : '');
+
         trips.push({
             name: boat.boatName,
             date: itinerary.departureDateFormatted,
             duration: itinerary.daysNights,
             price: price > 0 ? `$ ${price.toLocaleString()}` : '',
+            originalPrice: price,
+            crossedRate: crossedRate > 0 ? `$${crossedRate.toLocaleString()}` : '',
+            yourPrice: yourPrice ? `$${parseFloat(yourPrice).toLocaleString()}` : '',
             availability: itinerary.availabilityText || 'available',
             isAvailable: itinerary.tourAvailability > 5,
             spotsLeft: itinerary.tourAvailability || 10,
-            yourPrice: yourPrice ? `$${parseFloat(yourPrice).toLocaleString()}` : '',
+            discountPercentage: discountPct,
+            discountText: itinerary.discountText || '',
+            hasDiscount: hasDiscount,
             rating: boat.starRating || '',
             description: boat.snippet || '',
             photo: {
@@ -112,7 +132,7 @@ async function reconoceLa() {
                 },
                 timeout: 30000
             });
-            
+
             const boats = extractSearchData(response.data);
             
             if (boats) {
