@@ -16,11 +16,9 @@ function generateMonthUrls() {
                    'july', 'august', 'september', 'october', 'november', 'december'];
 
     const now = new Date();
-    const startDate = new Date('2026-02-01');
-    const actualStart = now > startDate ? now : startDate;
-    const endDate = new Date('2028-12-31');
+    const endDate = new Date(now.getFullYear() + 2, now.getMonth(), now.getDate());
 
-    let current = new Date(actualStart.getFullYear(), actualStart.getMonth(), 1);
+    let current = new Date(now.getFullYear(), now.getMonth(), 1);
     
     while (current <= endDate) {
         const month = months[current.getMonth()];
