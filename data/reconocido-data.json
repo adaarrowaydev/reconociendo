@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-01T21:57:53.470Z",
-  "totalTrips": 440,
+  "lastUpdated": "2026-04-02T07:46:44.327Z",
+  "totalTrips": 438,
   "filteredOut": "FULL trips excluded from results",
   "source": "l-a.com",
   "trips": [
@@ -16,7 +16,7 @@
       "isAvailable": false,
       "spotsLeft": 1,
       "discountPercentage": null,
-      "discountText": "Male Share.",
+      "discountText": "Male Shared Cabin.",
       "hasDiscount": false,
       "rating": "9.7",
       "description": "Tiburon Explorer liveaboard caters to 16 divers with 9 air-conditioned staterooms, modern amenities, and social areas. It offers 7-night dive trips to Galapagos Islands' best sites, including pelagics, endemic marine iguanas, and land tours.",
@@ -24,7 +24,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -36,7 +36,7 @@
       "yourPrice": "$7,298",
       "availability": "available",
       "isAvailable": true,
-      "spotsLeft": 8,
+      "spotsLeft": 7,
       "discountPercentage": 11,
       "discountText": "Valid for a limited time only. T&Cs apply.",
       "hasDiscount": true,
@@ -46,7 +46,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -68,7 +68,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Aqua",
@@ -78,9 +78,9 @@
       "originalPrice": 4416,
       "crossedRate": "$5,195",
       "yourPrice": "$5,195",
-      "availability": "only 3 spaces left",
+      "availability": "only 4 spaces left",
       "isAvailable": false,
-      "spotsLeft": 3,
+      "spotsLeft": 4,
       "discountPercentage": 15,
       "discountText": "Valid for a limited time only.",
       "hasDiscount": true,
@@ -90,7 +90,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Aqua",
@@ -100,9 +100,9 @@
       "originalPrice": 4416,
       "crossedRate": "$5,195",
       "yourPrice": "$5,195",
-      "availability": "only 3 spaces left",
+      "availability": "only 4 spaces left",
       "isAvailable": false,
-      "spotsLeft": 3,
+      "spotsLeft": 4,
       "discountPercentage": 15,
       "discountText": "Valid for a limited time only.",
       "hasDiscount": true,
@@ -112,7 +112,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Aqua",
@@ -134,7 +134,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Calipso Dive",
@@ -156,7 +156,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Calipso Dive",
@@ -178,29 +178,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
-    },
-    {
-      "name": "Galapagos Aggressor III",
-      "date": "09 Apr 2026",
-      "duration": "8D/7N",
-      "price": "$ 7,300",
-      "originalPrice": 7300,
-      "crossedRate": "",
-      "yourPrice": "$8,395",
-      "availability": "only 2 spaces left",
-      "isAvailable": false,
-      "spotsLeft": 2,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "9.1",
-      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
-        "alt": "Galapagos Aggressor III"
-      },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -222,7 +200,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -244,7 +222,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Galapagos Master",
@@ -266,7 +244,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Galapagos Master",
@@ -288,7 +266,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Galapagos Master",
@@ -310,7 +288,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -332,7 +310,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -346,7 +324,7 @@
       "isAvailable": false,
       "spotsLeft": 1,
       "discountPercentage": null,
-      "discountText": "Male Share.",
+      "discountText": "Male Shared Cabin.",
       "hasDiscount": false,
       "rating": "8.8",
       "description": "Completely renovated in Spring 2023, the Humboldt Explorer liveaboard offers an incredible 7-night pelagics-focused diving holiday, spending 4 days at the famous Darwin &amp; Wolf Islands.",
@@ -354,7 +332,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Danubio Azul",
@@ -376,7 +354,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:21.732Z"
+      "reconocidoAt": "2026-04-02T07:45:10.908Z"
     },
     {
       "name": "Calipso Dive",
@@ -398,7 +376,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Calipso Dive",
@@ -420,7 +398,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -442,7 +420,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -464,7 +442,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -486,7 +464,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Aqua",
@@ -508,7 +486,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Aqua",
@@ -530,7 +508,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Aqua",
@@ -552,7 +530,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -574,7 +552,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -596,7 +574,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -618,7 +596,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -640,7 +618,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -662,7 +640,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -684,7 +662,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Nortada",
@@ -706,7 +684,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:25.520Z"
+      "reconocidoAt": "2026-04-02T07:45:14.831Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -728,7 +706,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -750,7 +728,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -772,7 +750,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Galapagos Sky",
@@ -794,7 +772,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Galapagos Sky",
@@ -816,7 +794,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Danubio Azul",
@@ -838,7 +816,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Danubio Azul",
@@ -860,7 +838,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Galapagos Master",
@@ -882,7 +860,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Galapagos Master",
@@ -904,7 +882,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -916,7 +894,7 @@
       "yourPrice": "$7,239.25",
       "availability": "available",
       "isAvailable": true,
-      "spotsLeft": 7,
+      "spotsLeft": 6,
       "discountPercentage": null,
       "discountText": "",
       "hasDiscount": false,
@@ -926,7 +904,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Nortada",
@@ -948,7 +926,29 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:29.303Z"
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
+    },
+    {
+      "name": "Aqua",
+      "date": "16 Jun 2026",
+      "duration": "8D/7N",
+      "price": "$ 5,195",
+      "originalPrice": 5195,
+      "crossedRate": "",
+      "yourPrice": "$5,974.25",
+      "availability": "only 1 space left",
+      "isAvailable": false,
+      "spotsLeft": 1,
+      "discountPercentage": null,
+      "discountText": "",
+      "hasDiscount": false,
+      "rating": "9.1",
+      "description": "The MY Aqua liveaboard, Galapagos, offers unique diving and naturalist itineraries to experience the best of the National Park. Dive with hammerheads at the iconic Wolf and Darwin sites and get up close with sea lions.",
+      "photo": {
+        "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
+        "alt": "Aqua"
+      },
+      "reconocidoAt": "2026-04-02T07:45:18.646Z"
     },
     {
       "name": "Danubio Azul",
@@ -970,7 +970,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Danubio Azul",
@@ -992,7 +992,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Danubio Azul",
@@ -1014,7 +1014,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1036,7 +1036,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1058,7 +1058,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Nortada",
@@ -1080,7 +1080,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Galapagos Master",
@@ -1102,7 +1102,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -1116,7 +1116,7 @@
       "isAvailable": false,
       "spotsLeft": 1,
       "discountPercentage": null,
-      "discountText": "Female Share.",
+      "discountText": "Female Shared Cabin.",
       "hasDiscount": false,
       "rating": "8.8",
       "description": "Completely renovated in Spring 2023, the Humboldt Explorer liveaboard offers an incredible 7-night pelagics-focused diving holiday, spending 4 days at the famous Darwin &amp; Wolf Islands.",
@@ -1124,7 +1124,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:33.384Z"
+      "reconocidoAt": "2026-04-02T07:45:22.585Z"
     },
     {
       "name": "Danubio Azul",
@@ -1146,7 +1146,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:37.216Z"
+      "reconocidoAt": "2026-04-02T07:45:26.493Z"
     },
     {
       "name": "Danubio Azul",
@@ -1168,7 +1168,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:37.216Z"
+      "reconocidoAt": "2026-04-02T07:45:26.493Z"
     },
     {
       "name": "Danubio Azul",
@@ -1190,7 +1190,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:37.216Z"
+      "reconocidoAt": "2026-04-02T07:45:26.493Z"
     },
     {
       "name": "Danubio Azul",
@@ -1212,29 +1212,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:37.216Z"
-    },
-    {
-      "name": "Galapagos Sky",
-      "date": "09 Aug 2026",
-      "duration": "8D/7N",
-      "price": "$ 7,495",
-      "originalPrice": 7495,
-      "crossedRate": "",
-      "yourPrice": "$8,619.25",
-      "availability": "only 2 spaces left",
-      "isAvailable": false,
-      "spotsLeft": 2,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "9.5",
-      "description": "Exploring the Galapagos Islands since 2001, the Galapagos Sky liveaboard offers year-round 7-night itineraries to the world-famous dive sites of the Galapagos. 3 days will be spent at Wolf and Darwin with up to 4 dives per day.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
-        "alt": "Galapagos Sky"
-      },
-      "reconocidoAt": "2026-04-01T21:56:37.216Z"
+      "reconocidoAt": "2026-04-02T07:45:26.493Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1256,7 +1234,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:37.216Z"
+      "reconocidoAt": "2026-04-02T07:45:26.493Z"
     },
     {
       "name": "Calipso Dive",
@@ -1278,7 +1256,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:41.014Z"
+      "reconocidoAt": "2026-04-02T07:45:30.309Z"
     },
     {
       "name": "Danubio Azul",
@@ -1300,7 +1278,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:41.014Z"
+      "reconocidoAt": "2026-04-02T07:45:30.309Z"
     },
     {
       "name": "Danubio Azul",
@@ -1322,7 +1300,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:41.014Z"
+      "reconocidoAt": "2026-04-02T07:45:30.309Z"
     },
     {
       "name": "Danubio Azul",
@@ -1344,7 +1322,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:41.014Z"
+      "reconocidoAt": "2026-04-02T07:45:30.309Z"
     },
     {
       "name": "Danubio Azul",
@@ -1366,7 +1344,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:41.014Z"
+      "reconocidoAt": "2026-04-02T07:45:30.309Z"
     },
     {
       "name": "Galapagos Sky",
@@ -1388,7 +1366,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:56:41.014Z"
+      "reconocidoAt": "2026-04-02T07:45:30.309Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -1410,7 +1388,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:41.014Z"
+      "reconocidoAt": "2026-04-02T07:45:30.309Z"
     },
     {
       "name": "Nortada",
@@ -1432,7 +1410,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:44.778Z"
+      "reconocidoAt": "2026-04-02T07:45:34.227Z"
     },
     {
       "name": "Danubio Azul",
@@ -1454,7 +1432,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:44.778Z"
+      "reconocidoAt": "2026-04-02T07:45:34.227Z"
     },
     {
       "name": "Danubio Azul",
@@ -1476,7 +1454,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:44.778Z"
+      "reconocidoAt": "2026-04-02T07:45:34.227Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1498,7 +1476,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1520,7 +1498,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Galapagos Master",
@@ -1542,7 +1520,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Galapagos Master",
@@ -1564,7 +1542,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Danubio Azul",
@@ -1586,7 +1564,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Danubio Azul",
@@ -1608,7 +1586,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Danubio Azul",
@@ -1630,7 +1608,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Galapagos Sky",
@@ -1652,29 +1630,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
-    },
-    {
-      "name": "Tiburon Explorer",
-      "date": "28 Nov 2026",
-      "duration": "8D/7N",
-      "price": "$ 7,395",
-      "originalPrice": 7395,
-      "crossedRate": "",
-      "yourPrice": "$8,504.25",
-      "availability": "only 2 spaces left",
-      "isAvailable": false,
-      "spotsLeft": 2,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "9.7",
-      "description": "Tiburon Explorer liveaboard caters to 16 divers with 9 air-conditioned staterooms, modern amenities, and social areas. It offers 7-night dive trips to Galapagos Islands' best sites, including pelagics, endemic marine iguanas, and land tours.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
-        "alt": "Tiburon Explorer"
-      },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -1696,7 +1652,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:48.519Z"
+      "reconocidoAt": "2026-04-02T07:45:38.053Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1718,7 +1674,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1740,7 +1696,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1762,7 +1718,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1784,7 +1740,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1806,7 +1762,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1828,7 +1784,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1850,7 +1806,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1872,7 +1828,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Master",
@@ -1894,7 +1850,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Master",
@@ -1916,7 +1872,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Master",
@@ -1938,7 +1894,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Master",
@@ -1960,7 +1916,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Calipso Dive",
@@ -1982,7 +1938,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Calipso Dive",
@@ -2004,7 +1960,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Aqua",
@@ -2026,7 +1982,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Aqua",
@@ -2048,7 +2004,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2070,7 +2026,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2092,7 +2048,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2114,7 +2070,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Danubio Azul",
@@ -2136,7 +2092,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Danubio Azul",
@@ -2158,7 +2114,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Danubio Azul",
@@ -2180,7 +2136,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Danubio Azul",
@@ -2202,7 +2158,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2224,7 +2180,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2246,29 +2202,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
-    },
-    {
-      "name": "Humboldt Explorer",
-      "date": "28 Dec 2026",
-      "duration": "8D/7N",
-      "price": "$ 6,395",
-      "originalPrice": 6395,
-      "crossedRate": "",
-      "yourPrice": "$7,354.25",
-      "availability": "only 2 spaces left",
-      "isAvailable": false,
-      "spotsLeft": 2,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "8.8",
-      "description": "Completely renovated in Spring 2023, the Humboldt Explorer liveaboard offers an incredible 7-night pelagics-focused diving holiday, spending 4 days at the famous Darwin &amp; Wolf Islands.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
-        "alt": "Humboldt Explorer"
-      },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2282,7 +2216,7 @@
       "isAvailable": false,
       "spotsLeft": 1,
       "discountPercentage": null,
-      "discountText": "Male Share.",
+      "discountText": "Male Shared Cabin.",
       "hasDiscount": false,
       "rating": "9.7",
       "description": "Tiburon Explorer liveaboard caters to 16 divers with 9 air-conditioned staterooms, modern amenities, and social areas. It offers 7-night dive trips to Galapagos Islands' best sites, including pelagics, endemic marine iguanas, and land tours.",
@@ -2290,7 +2224,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2312,7 +2246,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Nortada",
@@ -2334,7 +2268,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.314Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Nortada",
@@ -2356,7 +2290,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.315Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Nortada",
@@ -2378,7 +2312,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.315Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Nortada",
@@ -2400,7 +2334,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:52.315Z"
+      "reconocidoAt": "2026-04-02T07:45:41.873Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2422,7 +2356,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2444,7 +2378,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2466,7 +2400,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2488,7 +2422,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2510,7 +2444,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2532,7 +2466,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2544,7 +2478,7 @@
       "yourPrice": "$8,504.25",
       "availability": "available",
       "isAvailable": true,
-      "spotsLeft": 12,
+      "spotsLeft": 10,
       "discountPercentage": null,
       "discountText": "",
       "hasDiscount": false,
@@ -2554,7 +2488,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Danubio Azul",
@@ -2576,7 +2510,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Danubio Azul",
@@ -2598,7 +2532,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Danubio Azul",
@@ -2620,7 +2554,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Danubio Azul",
@@ -2642,7 +2576,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2664,7 +2598,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2686,7 +2620,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2708,7 +2642,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Galapagos Master",
@@ -2730,7 +2664,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Nortada",
@@ -2752,7 +2686,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Nortada",
@@ -2774,7 +2708,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Nortada",
@@ -2796,7 +2730,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Nortada",
@@ -2818,7 +2752,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:56.069Z"
+      "reconocidoAt": "2026-04-02T07:45:45.882Z"
     },
     {
       "name": "Aqua",
@@ -2840,7 +2774,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Aqua",
@@ -2862,7 +2796,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2884,7 +2818,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2906,7 +2840,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2928,7 +2862,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2950,7 +2884,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Calipso Dive",
@@ -2972,7 +2906,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2994,7 +2928,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -3016,7 +2950,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -3038,7 +2972,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Danubio Azul",
@@ -3060,7 +2994,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Danubio Azul",
@@ -3082,7 +3016,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Danubio Azul",
@@ -3104,7 +3038,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Danubio Azul",
@@ -3126,7 +3060,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Nortada",
@@ -3148,7 +3082,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Nortada",
@@ -3170,7 +3104,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Nortada",
@@ -3192,7 +3126,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Nortada",
@@ -3214,7 +3148,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:56:59.868Z"
+      "reconocidoAt": "2026-04-02T07:45:49.870Z"
     },
     {
       "name": "Aqua",
@@ -3236,7 +3170,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Aqua",
@@ -3258,7 +3192,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Aqua",
@@ -3280,7 +3214,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Aqua",
@@ -3302,7 +3236,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Aqua",
@@ -3324,7 +3258,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3346,7 +3280,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3368,7 +3302,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3390,7 +3324,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3412,7 +3346,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3434,7 +3368,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -3446,7 +3380,7 @@
       "yourPrice": "$8,504.25",
       "availability": "available",
       "isAvailable": true,
-      "spotsLeft": 7,
+      "spotsLeft": 9,
       "discountPercentage": null,
       "discountText": "",
       "hasDiscount": false,
@@ -3456,7 +3390,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -3478,7 +3412,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -3500,7 +3434,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -3522,7 +3456,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -3544,7 +3478,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -3566,7 +3500,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Calipso Dive",
@@ -3588,7 +3522,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galapagos Master",
@@ -3610,7 +3544,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galapagos Master",
@@ -3632,7 +3566,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Danubio Azul",
@@ -3654,7 +3588,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Danubio Azul",
@@ -3676,7 +3610,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Danubio Azul",
@@ -3698,7 +3632,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Danubio Azul",
@@ -3720,7 +3654,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Danubio Azul",
@@ -3742,7 +3676,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Nortada",
@@ -3764,7 +3698,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Nortada",
@@ -3786,7 +3720,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Nortada",
@@ -3808,7 +3742,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Nortada",
@@ -3830,7 +3764,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galapagos Sky",
@@ -3852,7 +3786,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Galapagos Sky",
@@ -3874,7 +3808,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -3896,7 +3830,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:03.637Z"
+      "reconocidoAt": "2026-04-02T07:45:53.668Z"
     },
     {
       "name": "Aqua",
@@ -3918,7 +3852,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Aqua",
@@ -3940,7 +3874,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Aqua",
@@ -3962,7 +3896,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Aqua",
@@ -3984,7 +3918,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -4006,7 +3940,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -4028,7 +3962,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Calipso Dive",
@@ -4050,7 +3984,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Calipso Dive",
@@ -4072,7 +4006,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4094,7 +4028,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4116,7 +4050,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4138,7 +4072,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4160,7 +4094,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4182,7 +4116,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4204,7 +4138,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4226,7 +4160,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4248,7 +4182,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4270,7 +4204,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4292,7 +4226,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Master",
@@ -4314,7 +4248,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galapagos Master",
@@ -4336,7 +4270,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Nortada",
@@ -4358,7 +4292,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Nortada",
@@ -4380,7 +4314,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Nortada",
@@ -4402,7 +4336,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Nortada",
@@ -4424,7 +4358,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Nortada",
@@ -4446,7 +4380,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Danubio Azul",
@@ -4468,7 +4402,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Danubio Azul",
@@ -4490,7 +4424,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Danubio Azul",
@@ -4512,7 +4446,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Danubio Azul",
@@ -4534,7 +4468,29 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:07.410Z"
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
+    },
+    {
+      "name": "Humboldt Explorer",
+      "date": "19 Apr 2027",
+      "duration": "8D/7N",
+      "price": "$ 6,395",
+      "originalPrice": 6395,
+      "crossedRate": "",
+      "yourPrice": "$7,354.25",
+      "availability": "only 2 spaces left",
+      "isAvailable": false,
+      "spotsLeft": 2,
+      "discountPercentage": null,
+      "discountText": "",
+      "hasDiscount": false,
+      "rating": "8.8",
+      "description": "Completely renovated in Spring 2023, the Humboldt Explorer liveaboard offers an incredible 7-night pelagics-focused diving holiday, spending 4 days at the famous Darwin &amp; Wolf Islands.",
+      "photo": {
+        "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
+        "alt": "Humboldt Explorer"
+      },
+      "reconocidoAt": "2026-04-02T07:45:57.632Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -4556,7 +4512,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -4578,7 +4534,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -4600,7 +4556,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Aqua",
@@ -4622,7 +4578,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Aqua",
@@ -4644,7 +4600,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4666,7 +4622,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4688,7 +4644,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4710,7 +4666,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4732,7 +4688,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4754,7 +4710,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4776,7 +4732,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4798,7 +4754,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Calipso Dive",
@@ -4820,7 +4776,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4842,7 +4798,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4864,7 +4820,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4886,7 +4842,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -4908,7 +4864,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -4930,7 +4886,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -4952,7 +4908,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Master",
@@ -4974,7 +4930,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Master",
@@ -4996,7 +4952,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Master",
@@ -5018,7 +4974,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Nortada",
@@ -5040,7 +4996,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Nortada",
@@ -5062,7 +5018,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Nortada",
@@ -5084,7 +5040,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Nortada",
@@ -5106,7 +5062,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Danubio Azul",
@@ -5128,7 +5084,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Danubio Azul",
@@ -5150,7 +5106,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Danubio Azul",
@@ -5172,7 +5128,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Danubio Azul",
@@ -5194,7 +5150,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:11.216Z"
+      "reconocidoAt": "2026-04-02T07:46:01.543Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5216,7 +5172,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5238,7 +5194,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5260,7 +5216,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -5282,7 +5238,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -5304,7 +5260,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Calipso Dive",
@@ -5326,7 +5282,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Aqua",
@@ -5348,7 +5304,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5370,7 +5326,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5392,7 +5348,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5402,9 +5358,9 @@
       "originalPrice": 6395,
       "crossedRate": "",
       "yourPrice": "$7,354.25",
-      "availability": "only 5 spaces left",
-      "isAvailable": false,
-      "spotsLeft": 5,
+      "availability": "available",
+      "isAvailable": true,
+      "spotsLeft": 13,
       "discountPercentage": null,
       "discountText": "",
       "hasDiscount": false,
@@ -5414,7 +5370,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5436,7 +5392,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Galapagos Master",
@@ -5458,7 +5414,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Nortada",
@@ -5480,7 +5436,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Nortada",
@@ -5502,7 +5458,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Nortada",
@@ -5524,7 +5480,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Danubio Azul",
@@ -5546,7 +5502,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Danubio Azul",
@@ -5568,7 +5524,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Danubio Azul",
@@ -5590,7 +5546,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Danubio Azul",
@@ -5612,7 +5568,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Danubio Azul",
@@ -5634,7 +5590,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:15.019Z"
+      "reconocidoAt": "2026-04-02T07:46:05.347Z"
     },
     {
       "name": "Aqua",
@@ -5656,7 +5612,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.159Z"
     },
     {
       "name": "Aqua",
@@ -5678,7 +5634,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.159Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5700,7 +5656,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.159Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5722,7 +5678,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.159Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5744,7 +5700,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -5766,7 +5722,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5788,7 +5744,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5810,7 +5766,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5832,7 +5788,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Nortada",
@@ -5854,7 +5810,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Nortada",
@@ -5876,7 +5832,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5898,7 +5854,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Danubio Azul",
@@ -5920,7 +5876,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Danubio Azul",
@@ -5942,7 +5898,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Danubio Azul",
@@ -5964,7 +5920,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Galapagos Master",
@@ -5986,7 +5942,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Calipso Dive",
@@ -6008,7 +5964,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:18.868Z"
+      "reconocidoAt": "2026-04-02T07:46:09.160Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6030,7 +5986,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6052,7 +6008,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Nortada",
@@ -6074,7 +6030,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Nortada",
@@ -6096,7 +6052,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Danubio Azul",
@@ -6118,7 +6074,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Danubio Azul",
@@ -6140,7 +6096,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Danubio Azul",
@@ -6162,7 +6118,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Danubio Azul",
@@ -6184,7 +6140,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6206,7 +6162,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:22.656Z"
+      "reconocidoAt": "2026-04-02T07:46:12.944Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6228,7 +6184,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6250,7 +6206,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Aqua",
@@ -6272,7 +6228,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Danubio Azul",
@@ -6294,7 +6250,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Danubio Azul",
@@ -6316,7 +6272,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Danubio Azul",
@@ -6338,7 +6294,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Danubio Azul",
@@ -6360,7 +6316,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Nortada",
@@ -6382,7 +6338,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6404,7 +6360,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:26.468Z"
+      "reconocidoAt": "2026-04-02T07:46:16.931Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6426,7 +6382,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6448,7 +6404,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Nortada",
@@ -6470,7 +6426,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Nortada",
@@ -6492,7 +6448,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Nortada",
@@ -6514,7 +6470,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Nortada",
@@ -6536,7 +6492,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Danubio Azul",
@@ -6558,7 +6514,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Danubio Azul",
@@ -6580,7 +6536,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Danubio Azul",
@@ -6602,7 +6558,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Danubio Azul",
@@ -6624,7 +6580,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -6638,7 +6594,7 @@
       "isAvailable": false,
       "spotsLeft": 1,
       "discountPercentage": null,
-      "discountText": "Female Share.",
+      "discountText": "Female Shared Cabin.",
       "hasDiscount": false,
       "rating": "9.7",
       "description": "Tiburon Explorer liveaboard caters to 16 divers with 9 air-conditioned staterooms, modern amenities, and social areas. It offers 7-night dive trips to Galapagos Islands' best sites, including pelagics, endemic marine iguanas, and land tours.",
@@ -6646,7 +6602,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Galapagos Master",
@@ -6668,7 +6624,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:30.389Z"
+      "reconocidoAt": "2026-04-02T07:46:20.825Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6690,7 +6646,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6712,7 +6668,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6734,7 +6690,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6756,7 +6712,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Aqua",
@@ -6778,7 +6734,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Calipso Dive",
@@ -6800,7 +6756,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Nortada",
@@ -6822,7 +6778,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Nortada",
@@ -6844,7 +6800,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Nortada",
@@ -6866,7 +6822,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Nortada",
@@ -6888,7 +6844,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Danubio Azul",
@@ -6910,7 +6866,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Danubio Azul",
@@ -6932,7 +6888,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Danubio Azul",
@@ -6954,7 +6910,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Danubio Azul",
@@ -6976,7 +6932,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Danubio Azul",
@@ -6998,7 +6954,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7020,7 +6976,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:34.279Z"
+      "reconocidoAt": "2026-04-02T07:46:24.767Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -7042,7 +6998,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -7064,7 +7020,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -7086,7 +7042,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -7108,7 +7064,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7130,7 +7086,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7152,7 +7108,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7174,7 +7130,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7196,7 +7152,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7218,7 +7174,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Aqua",
@@ -7240,7 +7196,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Aqua",
@@ -7262,7 +7218,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Aqua",
@@ -7284,7 +7240,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7306,7 +7262,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7328,7 +7284,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7350,7 +7306,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7372,7 +7328,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/35.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Calipso Dive",
@@ -7394,7 +7350,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Calipso Dive",
@@ -7416,7 +7372,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -7438,7 +7394,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -7460,7 +7416,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -7472,7 +7428,7 @@
       "yourPrice": "$7,469.25",
       "availability": "available",
       "isAvailable": true,
-      "spotsLeft": 9,
+      "spotsLeft": 10,
       "discountPercentage": null,
       "discountText": "",
       "hasDiscount": false,
@@ -7482,7 +7438,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Master",
@@ -7504,7 +7460,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Galapagos Master",
@@ -7526,7 +7482,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Nortada",
@@ -7548,7 +7504,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Nortada",
@@ -7570,7 +7526,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Nortada",
@@ -7592,7 +7548,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Nortada",
@@ -7614,7 +7570,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Danubio Azul",
@@ -7636,7 +7592,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Danubio Azul",
@@ -7658,7 +7614,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Danubio Azul",
@@ -7680,7 +7636,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Danubio Azul",
@@ -7702,7 +7658,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-azul-4-2024.jpg?tr=w-360,h-240,f-webp",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-04-01T21:57:38.050Z"
+      "reconocidoAt": "2026-04-02T07:46:28.613Z"
     },
     {
       "name": "Aqua",
@@ -7724,7 +7680,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Aqua",
@@ -7746,7 +7702,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Aqua",
@@ -7768,7 +7724,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7790,7 +7746,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7812,7 +7768,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7834,7 +7790,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -7856,7 +7812,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -7878,7 +7834,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -7900,7 +7856,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -7922,7 +7878,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Master",
@@ -7944,7 +7900,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Master",
@@ -7966,7 +7922,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Master",
@@ -7988,7 +7944,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Master",
@@ -8010,7 +7966,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Galapagos Master",
@@ -8032,7 +7988,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8054,7 +8010,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8076,7 +8032,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8098,7 +8054,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8120,7 +8076,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8142,7 +8098,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Nortada",
@@ -8164,7 +8120,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Nortada",
@@ -8186,7 +8142,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Nortada",
@@ -8208,7 +8164,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:41.900Z"
+      "reconocidoAt": "2026-04-02T07:46:32.529Z"
     },
     {
       "name": "Aqua",
@@ -8230,7 +8186,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Aqua",
@@ -8252,7 +8208,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Aqua",
@@ -8274,7 +8230,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Aqua",
@@ -8296,7 +8252,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Aqua",
@@ -8318,7 +8274,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -8340,7 +8296,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -8362,7 +8318,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8384,7 +8340,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8406,7 +8362,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8428,7 +8384,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8450,7 +8406,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Galapagos Master",
@@ -8472,7 +8428,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Galapagos Master",
@@ -8494,7 +8450,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Galapagos Master",
@@ -8516,7 +8472,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8538,7 +8494,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8560,7 +8516,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8582,7 +8538,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8604,7 +8560,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Nortada",
@@ -8626,7 +8582,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Nortada",
@@ -8648,7 +8604,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Nortada",
@@ -8670,7 +8626,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Nortada",
@@ -8692,7 +8648,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:45.748Z"
+      "reconocidoAt": "2026-04-02T07:46:36.328Z"
     },
     {
       "name": "Aqua",
@@ -8714,7 +8670,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Aqua",
@@ -8736,7 +8692,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Aqua",
@@ -8758,7 +8714,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Aqua",
@@ -8780,7 +8736,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -8802,7 +8758,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -8824,7 +8780,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -8846,7 +8802,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -8868,7 +8824,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -8890,7 +8846,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8912,7 +8868,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8934,7 +8890,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8956,7 +8912,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -8978,7 +8934,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9000,7 +8956,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9022,7 +8978,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9044,7 +9000,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9066,7 +9022,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Nortada",
@@ -9088,7 +9044,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Nortada",
@@ -9110,7 +9066,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Nortada",
@@ -9132,7 +9088,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.316Z"
     },
     {
       "name": "Nortada",
@@ -9154,7 +9110,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.317Z"
     },
     {
       "name": "Nortada",
@@ -9176,7 +9132,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:49.587Z"
+      "reconocidoAt": "2026-04-02T07:46:40.317Z"
     },
     {
       "name": "Aqua",
@@ -9198,7 +9154,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Aqua",
@@ -9220,7 +9176,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Aqua",
@@ -9242,7 +9198,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -9264,7 +9220,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -9286,7 +9242,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -9308,7 +9264,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -9330,7 +9286,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -9352,7 +9308,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -9374,7 +9330,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -9396,7 +9352,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -9418,7 +9374,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -9440,7 +9396,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Galapagos Master",
@@ -9462,7 +9418,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Galapagos Master",
@@ -9484,7 +9440,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Galapagos Master",
@@ -9506,7 +9462,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9528,7 +9484,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9550,7 +9506,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9572,7 +9528,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -9594,7 +9550,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/humboldt-explorer--external-view-3.jpg?tr=w-360,h-240,f-webp",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Nortada",
@@ -9616,7 +9572,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Nortada",
@@ -9638,7 +9594,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Nortada",
@@ -9660,7 +9616,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     },
     {
       "name": "Nortada",
@@ -9682,7 +9638,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5517/Nortada-800px.jpg?tr=w-360,h-240,f-webp",
         "alt": "Nortada"
       },
-      "reconocidoAt": "2026-04-01T21:57:53.469Z"
+      "reconocidoAt": "2026-04-02T07:46:44.326Z"
     }
   ]
 }
