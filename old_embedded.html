@@ -1,0 +1,379 @@
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script>
+    emailjs.init('01eRY7_8hEuMqqA7H');
+</script>
+
+<style>
+/* Estilos Base */
+.wix-liveaboard-container { font-family: 'Montserrat', sans-serif; max-width: 100%; margin: 0 auto; background: transparent; }
+.wix-header { background: #0B1D3A; color: #C5A059; padding: 30px 20px; text-align: center; border-radius: 8px 8px 0 0; }
+.wix-header h2 { margin: 0; font-size: 2.2em; font-family: 'Cormorant Garamond', serif; font-weight: 600; }
+
+/* Barra de Filtros */
+.wix-filters-wrapper { background: #F9F9F9; padding: 25px; border-bottom: 1px solid #EAEAEA; display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: flex-end; }
+.filter-group { display: flex; flex-direction: column; gap: 5px; }
+.filter-group label { font-size: 0.65em; text-transform: uppercase; color: #666; letter-spacing: 1px; font-weight: 600; }
+.wix-input { padding: 10px; border: 1px solid #0B1D3A; background: white; color: #0B1D3A; font-family: 'Montserrat', sans-serif; font-size: 0.85em; height: 40px; box-sizing: border-box; min-width: 140px; }
+
+/* Multiselect Barcos */
+.multiselect-container { position: relative; min-width: 200px; }
+.multiselect-selected { padding: 10px; border: 1px solid #0B1D3A; background: white; font-size: 0.85em; cursor: pointer; height: 40px; box-sizing: border-box; display: flex; justify-content: space-between; align-items: center; }
+.multiselect-list { display: none; position: absolute; top: 42px; left: 0; width: 100%; background: white; border: 1px solid #0B1D3A; z-index: 100; max-height: 250px; overflow-y: auto; box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+.multiselect-list label { display: flex; align-items: center; gap: 10px; padding: 10px; font-size: 0.85em; cursor: pointer; border-bottom: 1px solid #f0f0f0; }
+.multiselect-list label.select-all-opt { background: #F9F9F9; font-weight: 600; border-bottom: 2px solid #0B1D3A; }
+
+/* Grid y Tarjetas */
+.wix-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; padding: 30px 20px; background: #ffffff; }
+.wix-card { background: white; border: 1px solid #EAEAEA; transition: 0.4s; position: relative; display: flex; flex-direction: column; }
+.wix-card:hover { transform: translateY(-5px); box-shadow: 0 10px 30px rgba(11,29,58,0.08); }
+.wix-image-wrapper { position: relative; width: 100%; height: 200px; overflow: hidden; background: #f0f0f0; }
+.wix-image { width: 100%; height: 100%; object-fit: cover; }
+
+.promo-badge { position: absolute; top: 0; left: 0; background: #C5A059; color: white; padding: 8px 15px; font-size: 0.7em; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; z-index: 5; }
+.discount-badge { position: absolute; top: 0; right: 0; color: #333; padding: 10px 14px; font-size: 0.95em; font-weight: 700; z-index: 5; border-radius: 0 0 0 6px; }
+.discount-badge.pulse { animation: badgePulse 1.8s ease-in-out infinite; }
+@keyframes badgePulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.18); } }
+
+.wix-content { padding: 25px; flex-grow: 1; display: flex; flex-direction: column; }
+.wix-name { font-family: 'Cormorant Garamond', serif; font-size: 1.5em; font-weight: 600; color: #0B1D3A; margin-bottom: 10px; }
+.wix-details { font-size: 0.85em; color: #666; margin-bottom: 8px; }
+
+/* Precio y Plazas */
+.price-row { margin-top: auto; padding-top: 15px; border-top: 1px solid #EAEAEA; display: flex; justify-content: space-between; align-items: flex-end; }
+.price-col { display: flex; flex-direction: row; align-items: baseline; gap: 10px; }
+.original-price { text-decoration: line-through; color: #999; font-size: 0.85em; order: 2; }
+.wix-your-price { font-family: 'Cormorant Garamond', serif; font-size: 1.6em; font-weight: 600; color: #C5A059; line-height: 1; }
+.spots-left { font-size: 0.7em; color: #0B1D3A; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid #0B1D3A; padding: 4px 8px; }
+.spots-left.last-call { background: #0B1D3A; color: #C5A059; }
+
+.wix-book-btn { width: 100%; padding: 12px; margin-top: 20px; background: #0B1D3A; color: #C5A059; border: 1px solid #0B1D3A; text-transform: uppercase; cursor: pointer; font-size: 0.85em; font-weight: 600; }
+
+.wix-modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(11, 29, 58, 0.8); z-index: 99999; align-items: center; justify-content: center; }
+.wix-modal { background: white; padding: 40px; max-width: 450px; width: 90%; }
+</style>
+
+<div class="wix-liveaboard-container" lang="es">
+    <div class="wix-header">
+        <h2>Disponibilidad</h2>
+    </div>
+    
+    <div class="wix-filters-wrapper">
+        <div class="filter-group">
+            <label>Desde</label>
+            <input type="date" id="date-start" class="wix-input">
+        </div>
+        <div class="filter-group">
+            <label>Hasta</label>
+            <input type="date" id="date-end" class="wix-input">
+        </div>
+        <div class="filter-group">
+            <label>Flota</label>
+            <div class="multiselect-container">
+                <div class="multiselect-selected" onclick="toggleMultiselect()">
+                    <span id="selected-boats-label">Todos los barcos</span>
+                    <span>▼</span>
+                </div>
+                <div id="boat-list" class="multiselect-list">
+                    <label class="select-all-opt"><input type="checkbox" id="select-all-cb" checked onchange="app.toggleAllBoats(this)"> Seleccionar todos</label>
+                    <div id="boat-items"></div>
+                </div>
+            </div>
+        </div>
+        <div class="filter-group">
+            <label>Ordenar</label>
+            <select id="sort-order" class="wix-input">
+                <option value="offers" selected>Ofertas</option>
+                <option value="recommended">Recomendados</option>
+                <option value="price-asc">Precio más bajo</option>
+                <option value="price-desc">Precio más alto</option>
+            </select>
+        </div>
+    </div>
+
+    <div id="wix-loading" style="text-align:center; padding:60px;">Buscando expediciones...</div>
+    <div id="wix-grid-container"></div>
+</div>
+
+<div id="wix-modal-overlay" class="wix-modal-overlay">
+    <div class="wix-modal">
+        <h3 style="font-family:'Cormorant Garamond', serif; text-align:center; color:#0B1D3A;">Solicitar Reserva</h3>
+        <div id="modal-trip-info" style="margin:20px 0; background:#F9F9F9; padding:15px; border-left:3px solid #C5A059; font-size:0.9em;"></div>
+        <form id="booking-form" onsubmit="return handleBookingSubmit(event)">
+            <input type="hidden" id="form-crucero"><input type="hidden" id="form-fecha"><input type="hidden" id="form-precio">
+            <input type="text" id="form-nombre" placeholder="Nombre completo" required style="width:100%; padding:12px; margin-bottom:15px; border:1px solid #EEE; box-sizing:border-box;">
+            <input type="email" id="form-email" placeholder="Correo electrónico" required style="width:100%; padding:12px; margin-bottom:15px; border:1px solid #EEE; box-sizing:border-box;">
+            <textarea id="form-mensaje" placeholder="Nivel de buceo o dudas..." style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #EEE; height:100px; box-sizing:border-box; font-family:inherit;"></textarea>
+            <button type="submit" style="width:100%; background:#0B1D3A; color:#C5A059; padding:15px; border:none; cursor:pointer; text-transform:uppercase;">Enviar Solicitud</button>
+            <button type="button" onclick="closeBookingModal()" style="width:100%; background:none; border:none; margin-top:15px; text-decoration:underline; cursor:pointer;">Volver</button>
+        </form>
+    </div>
+</div>
+
+<script>
+class GalaxyProDisplay {
+    constructor() {
+        this.trips = [];
+        this.selectedBoats = new Set();
+        this.eurRate = 0.86; // fallback, only used if source data is in USD
+        this.dataCurrency = 'USD';
+        this.dataSource = 'https://raw.githubusercontent.com/adaarrowaydev/reconociendo/main/data/reconocido-data.json';
+
+        // Helper: local date string YYYY-MM-DD without timezone shift
+        this._localISO = (d) => {
+            const y = d.getFullYear();
+            const m = String(d.getMonth() + 1).padStart(2, '0');
+            const day = String(d.getDate()).padStart(2, '0');
+            return `${y}-${m}-${day}`;
+        };
+
+        const today = new Date();
+        const in28 = new Date();
+        in28.setDate(today.getDate() + 28);
+
+        this.startDate = this._localISO(today);
+        this.endDate = this._localISO(in28);
+
+        this.init();
+    }
+
+    async init() {
+        try {
+            const resData = await fetch(this.dataSource);
+            const data = await resData.json();
+            this.trips = data.trips || [];
+            this.dataCurrency = (data.currency || 'USD').toUpperCase();
+
+            // Only fetch FX when source data is not already in EUR
+            if (this.dataCurrency !== 'EUR') {
+                try {
+                    const rateRes = await fetch(`https://api.frankfurter.app/latest?from=${this.dataCurrency}&to=EUR`);
+                    const rateData = await rateRes.json();
+                    if (rateData && rateData.rates && rateData.rates.EUR) this.eurRate = rateData.rates.EUR;
+                } catch (e) { /* use fallback */ }
+            }
+
+            const allBoats = [...new Set(this.trips.map(t => t.name))];
+            allBoats.forEach(b => this.selectedBoats.add(b));
+
+            const startEl = document.getElementById('date-start');
+            const endEl = document.getElementById('date-end');
+
+            startEl.value = this.startDate;
+            endEl.value = this.endDate;
+            endEl.min = this.startDate;
+
+            this.renderBoatList();
+            this.setupListeners();
+            this.render();
+            document.getElementById('wix-loading').style.display = 'none';
+        } catch (e) {
+            console.error(e);
+            document.getElementById('wix-loading').innerText = "Error al cargar datos.";
+        }
+    }
+
+    renderBoatList() {
+        const boats = [...new Set(this.trips.map(t => t.name))].filter(Boolean).sort();
+        const list = document.getElementById('boat-items');
+        list.innerHTML = boats.map(b => `
+            <label><input type="checkbox" class="boat-cb" value="${b}" checked onchange="app.toggleBoat(this)"> ${b}</label>
+        `).join('');
+    }
+
+    toggleAllBoats(masterCb) {
+        const cbs = document.querySelectorAll('.boat-cb');
+        this.selectedBoats.clear();
+        cbs.forEach(cb => {
+            cb.checked = masterCb.checked;
+            if (cb.checked) this.selectedBoats.add(cb.value);
+        });
+        this.updateLabel();
+        this.render();
+    }
+
+    toggleBoat(cb) {
+        if (cb.checked) this.selectedBoats.add(cb.value);
+        else this.selectedBoats.delete(cb.value);
+        this.updateLabel();
+        this.render();
+    }
+
+    updateLabel() {
+        const label = document.getElementById('selected-boats-label');
+        const total = document.querySelectorAll('.boat-cb').length;
+        if (this.selectedBoats.size === total) label.innerText = "Todos los barcos";
+        else if (this.selectedBoats.size === 0) label.innerText = "Ningún barco";
+        else label.innerText = `${this.selectedBoats.size} seleccionados`;
+    }
+
+    setupListeners() {
+        const startEl = document.getElementById('date-start');
+        const endEl = document.getElementById('date-end');
+
+        startEl.onchange = (e) => {
+            this.startDate = e.target.value;
+            endEl.min = this.startDate;
+            if (this.endDate && this.startDate && this.endDate < this.startDate) {
+                this.endDate = this.startDate;
+                endEl.value = this.startDate;
+            }
+            this.render();
+        };
+
+        endEl.onchange = (e) => {
+            this.endDate = e.target.value;
+            this.render();
+        };
+
+        document.getElementById('sort-order').onchange = () => this.render();
+        window.onclick = (e) => {
+            if (!e.target.closest('.multiselect-container')) {
+                document.getElementById('boat-list').style.display = 'none';
+            }
+        };
+    }
+
+    // Parse a price string like "$1,234" or "€1,234" into a number
+    p(priceStr) {
+        if (priceStr === 0 || priceStr === '0') return 0;
+        if (!priceStr) return 0;
+        return parseFloat(String(priceStr).replace(/[^0-9.]/g, '')) || 0;
+    }
+
+    // Returns the numeric EUR value of a price string from the source data
+    toEURValue(priceStr) {
+        const n = this.p(priceStr);
+        if (n === 0) return 0;
+        return this.dataCurrency === 'EUR' ? n : n * this.eurRate;
+    }
+
+    // Format a EUR numeric value for display
+    fmtEUR(val) {
+        if (val === 0) return "Consultar";
+        return `${Math.round(val).toLocaleString()} €`;
+    }
+
+    // Shorthand: convert USD price string to formatted EUR string (with markup)
+    toEUR(priceStr) {
+        const val = this.toEURValue(priceStr);
+        return this.fmtEUR(val);
+    }
+
+    // Interpolate badge color: light teal at low discounts → #46C1B8 at 30%+
+    discountColor(pct) {
+        const t = Math.min(pct / 30, 1); // 0..1 clamped at 30%
+        const from = [184, 232, 228]; // light teal
+        const to = [70, 193, 184];    // #46C1B8
+        const r = Math.round(from[0] + (to[0] - from[0]) * t);
+        const g = Math.round(from[1] + (to[1] - from[1]) * t);
+        const b = Math.round(from[2] + (to[2] - from[2]) * t);
+        return `rgb(${r},${g},${b})`;
+    }
+
+    render() {
+        const sort = document.getElementById('sort-order').value;
+
+        let filtered = this.trips.filter(t => {
+            if (!this.selectedBoats.has(t.name)) return false;
+
+            // Override isAvailable: false when there are spots left
+            const spots = t.spotsLeft || 0;
+            if (t.isAvailable === false && spots <= 0) return false;
+
+            const parts = t.date.split('-');
+            let tripDate;
+            if (parts.length === 3) {
+                tripDate = new Date(+parts[0], +parts[1] - 1, +parts[2]);
+            } else {
+                tripDate = new Date(t.date);
+            }
+
+            if (this.startDate) {
+                const sp = this.startDate.split('-');
+                const start = new Date(+sp[0], +sp[1] - 1, +sp[2]);
+                if (tripDate < start) return false;
+            }
+            if (this.endDate) {
+                const ep = this.endDate.split('-');
+                const end = new Date(+ep[0], +ep[1] - 1, +ep[2]);
+                if (tripDate > end) return false;
+            }
+            return true;
+        });
+
+        if (sort === 'price-asc') filtered.sort((a, b) => this.toEURValue(a.price) - this.toEURValue(b.price));
+        else if (sort === 'price-desc') filtered.sort((a, b) => this.toEURValue(b.price) - this.toEURValue(a.price));
+        else if (sort === 'offers') filtered.sort((a, b) => {
+            const discA = a.hasDiscount ? (a.discountPercentage || 0) : 0;
+            const discB = b.hasDiscount ? (b.discountPercentage || 0) : 0;
+            return discB - discA;
+        });
+        else filtered.sort((a, b) => (parseFloat(b.rating) || 0) - (parseFloat(a.rating) || 0));
+
+        const grid = document.getElementById('wix-grid-container');
+        grid.innerHTML = filtered.length === 0
+            ? `<div style="text-align:center; padding:80px; color:#999;">No hay resultados para estas fechas o flota.</div>`
+            : `<div class="wix-grid">${filtered.map(t => this.card(t)).join('')}</div>`;
+    }
+
+    card(t) {
+        const s = t.spotsLeft || 0;
+        const spotsClass = s <= 3 ? 'last-call' : '';
+        const spotsTxt = s === 1 ? '1 plaza' : `${s} plazas`;
+        const imgUrl = t.photo && t.photo.url ? t.photo.url : '';
+
+        // Price in EUR with markup (from the JSON "price" field in USD)
+        const finalPriceEUR = this.toEURValue(t.price);
+        const finalPriceStr = this.fmtEUR(finalPriceEUR);
+
+        // Discount: use hasDiscount flag and discountPercentage from JSON
+        const hasDiscount = t.hasDiscount && t.discountPercentage > 0 && finalPriceEUR > 0;
+        const discountPct = hasDiscount ? t.discountPercentage : 0;
+        // Reverse the discount to get the "original" (pre-discount) price
+        // If current price = original * (1 - disc/100), then original = current / (1 - disc/100)
+        const oldPriceEUR = hasDiscount ? finalPriceEUR / (1 - discountPct / 100) : 0;
+        const oldPriceStr = this.fmtEUR(oldPriceEUR);
+
+        return `
+            <div class="wix-card">
+                <div class="wix-image-wrapper">
+                    <img src="${imgUrl}" class="wix-image" onerror="this.src='https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=400'">
+                    ${hasDiscount ? `<div class="discount-badge${discountPct > 20 ? ' pulse' : ''}" style="background:${this.discountColor(discountPct)}">-${discountPct}%</div>` : ''}
+                </div>
+                <div class="wix-content">
+                    <div class="wix-name">${t.name}</div>
+                    <div class="wix-details">Fecha: <strong>${t.date}</strong></div>
+                    <div class="wix-details">Duración: ${t.duration}</div>
+                    
+                    <div class="price-row">
+                        <div class="price-col">
+                            ${hasDiscount ? `<span class="original-price">${oldPriceStr}</span>` : ''}
+                            <span class="wix-your-price">${finalPriceStr}</span>
+                        </div>
+                        <div class="spots-left ${spotsClass}">${spotsTxt}</div>
+                    </div>
+                    
+                    <button class="wix-book-btn" onclick="book('${t.name}','${t.date}','${finalPriceStr}')">Planificar mi viaje</button>
+                </div>
+            </div>`;
+    }
+}
+
+function toggleMultiselect() {
+    const list = document.getElementById('boat-list');
+    list.style.display = list.style.display === 'block' ? 'none' : 'block';
+}
+
+const app = new GalaxyProDisplay();
+
+function book(n, d, p) {
+    document.getElementById('modal-trip-info').innerHTML = `<strong>${n}</strong><br>Salida: ${d}<br>Precio: ${p}`;
+    document.getElementById('form-crucero').value = n;
+    document.getElementById('form-fecha').value = d;
+    document.getElementById('form-precio').value = p;
+    document.getElementById('wix-modal-overlay').style.display = 'flex';
+}
+function closeBookingModal() { document.getElementById('wix-modal-overlay').style.display = 'none'; }
+function handleBookingSubmit(e) { e.preventDefault(); closeBookingModal(); alert("¡Solicitud enviada correctamente!"); return false; }
+</script>

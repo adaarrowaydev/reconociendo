@@ -23,6 +23,8 @@ jobs:
         run: npm install
       - name: Run l-a reconocedor
         run: node la-reconocedor.js
+      - name: Run Emperor reconocedor
+        run: node emperor-reconocedor.js
       - name: Commit and push data
         run: |
           git config --local user.email "action@github.com"
