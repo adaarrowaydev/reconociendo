@@ -25,6 +25,7 @@ jobs:
         run: node la-reconocedor.js
       - name: Run Emperor reconocedor
         run: node emperor-reconocedor.js
+        continue-on-error: true
       - name: Commit and push data
         run: |
           git config --local user.email "action@github.com"
@@ -35,7 +36,7 @@ jobs:
           else
             git commit -m "Update reconocido data $(date '+%Y-%m-%d %H:%M:%S')"
             for i in 1 2 3; do
-              git push && break
+              git pull --rebase && git push && break
               echo "Push attempt $i failed, retrying in 10s..."
               sleep 10
             done
