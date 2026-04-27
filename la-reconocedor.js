@@ -6,8 +6,52 @@ const CONFIG = {
     output_file: './data/reconocido-data.json',
     delayBetweenRequests: 3000,
     markup: 0.15,
+    currency: process.env.RECONOCIDO_CURRENCY || 'EUR',
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
 };
+
+const CURRENCY_SYMBOLS = { USD: '$', EUR: '€', GBP: '£', AUD: 'A$', CAD: 'C$', CHF: 'CHF ' };
+const currencySymbol = () => CURRENCY_SYMBOLS[CONFIG.currency] || `${CONFIG.currency} `;
+
+// Minimal cookie jar so the currency preference (server-side session) persists across requests
+const cookieJar = {};
+function applyCookies(setCookieHeaders) {
+    if (!setCookieHeaders) return;
+    setCookieHeaders.forEach(line => {
+        const [pair] = line.split(';');
+        const idx = pair.indexOf('=');
+        if (idx > 0) cookieJar[pair.slice(0, idx).trim()] = pair.slice(idx + 1).trim();
+    });
+}
+function cookieHeader() {
+    return Object.entries(cookieJar).map(([k, v]) => `${k}=${v}`).join('; ');
+}
+async function laRequest(method, url) {
+    const res = await axios.request({
+        method,
+        url,
+        headers: {
+            'User-Agent': CONFIG.userAgent,
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Connection': 'keep-alive',
+            ...(Object.keys(cookieJar).length ? { Cookie: cookieHeader() } : {})
+        },
+        timeout: 30000,
+        validateStatus: () => true
+    });
+    applyCookies(res.headers['set-cookie']);
+    return res;
+}
+async function setCurrencyPreference(code) {
+    await laRequest('GET', CONFIG.baseUrl);
+    const res = await laRequest('POST', `https://www.liveaboard.com/Preference/SetCurrency?currencyCode=${code}`);
+    if (res.status >= 200 && res.status < 300) {
+        console.log(`Currency preference set to ${code}`);
+    } else {
+        console.warn(`Failed to set currency to ${code} (HTTP ${res.status}); falling back to default`);
+    }
+}
 
 // Generate month URLs
 function generateMonthUrls() {
@@ -76,15 +120,17 @@ function transformBoatData(boat) {
         
         // yourPrice = original price (crossed out), or markup if no discount
         const yourPrice = crossedRate > 0 ? crossedRate : (price > 0 ? (price * (1 + CONFIG.markup)).toFixed(2) : '');
+        const sym = currencySymbol();
 
         trips.push({
             name: boat.boatName,
             date: itinerary.departureDateFormatted,
             duration: itinerary.daysNights,
-            price: price > 0 ? `$ ${price.toLocaleString()}` : '',
+            currency: CONFIG.currency,
+            price: price > 0 ? `${sym}${price.toLocaleString()}` : '',
             originalPrice: price,
-            crossedRate: crossedRate > 0 ? `$${crossedRate.toLocaleString()}` : '',
-            yourPrice: yourPrice ? `$${parseFloat(yourPrice).toLocaleString()}` : '',
+            crossedRate: crossedRate > 0 ? `${sym}${crossedRate.toLocaleString()}` : '',
+            yourPrice: yourPrice ? `${sym}${parseFloat(yourPrice).toLocaleString()}` : '',
             availability: itinerary.availabilityText || 'available',
             isAvailable: itinerary.tourAvailability > 5,
             spotsLeft: itinerary.tourAvailability || 10,
@@ -110,26 +156,24 @@ function delay(ms) {
 
 async function reconoceLa() {
     console.log('Starting l-a.com reconoce (comprehensive)...');
-    
+
+    await setCurrencyPreference(CONFIG.currency);
+
     const monthUrls = generateMonthUrls();
     console.log(`Generated ${monthUrls.length} URLs to reconocer`);
-    
+
     const allTrips = [];
     let successCount = 0;
-    
+
     for (let i = 0; i < monthUrls.length; i++) {
         const { url, month, year } = monthUrls[i];
-        
+
         try {
-            const response = await axios.get(url, {
-                headers: {
-                    'User-Agent': CONFIG.userAgent,
-                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                    'Accept-Language': 'en-US,en;q=0.9',
-                    'Connection': 'keep-alive'
-                },
-                timeout: 30000
-            });
+            const response = await laRequest('GET', url);
+            if (response.status !== 200) {
+                console.error(`Non-200 ${response.status} for ${month} ${year}`);
+                continue;
+            }
 
             const boats = extractSearchData(response.data);
             
@@ -173,6 +217,7 @@ async function reconoceLa() {
         totalTrips: uniqueTrips.length,
         filteredOut: 'FULL trips excluded from results',
         source: 'l-a.com',
+        currency: CONFIG.currency,
         trips: uniqueTrips
     };
     
