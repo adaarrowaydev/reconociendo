@@ -165,20 +165,44 @@ function parseTripsFromHtml(html, destination) {
 
 function delay(ms) { return new Promise(r => setTimeout(r, ms)); }
 
+async function fetchNonceWithRetry(retries = 3) {
+    for (let i = 1; i <= retries; i++) {
+        try {
+            return await fetchNonce();
+        } catch (err) {
+            console.warn(`Nonce attempt ${i}/${retries} failed: ${err.message}`);
+            if (i === retries) throw err;
+            await delay(5000 * i);
+        }
+    }
+}
+
 async function reconoceEmperor() {
     console.log('Starting Emperor Divers reconoce...');
 
     setCurrencyPreference();
-    const nonce = await fetchNonce();
-    console.log('Nonce acquired');
+
+    let nonce;
+    try {
+        nonce = await fetchNonceWithRetry();
+        console.log('Nonce acquired');
+    } catch (err) {
+        console.error(`FATAL: Could not acquire nonce after retries: ${err.message}`);
+        console.error('Emperor scraper aborted — keeping existing data file intact.');
+        process.exitCode = 1;
+        return;
+    }
 
     const months = generateMonths();
     const destEntries = Object.entries(DESTINATIONS);
     const allTrips = [];
     let successCount = 0;
+    let consecutiveErrors = 0;
+    const MAX_CONSECUTIVE_ERRORS = 10;
 
     for (const [destName, dest] of destEntries) {
         console.log(`\nReconociendo ${dest.label}...`);
+        consecutiveErrors = 0;
 
         for (let i = 0; i < months.length; i++) {
             const { month, year } = months[i];
@@ -204,19 +228,26 @@ async function reconoceEmperor() {
 
                 if (res.status !== 200) {
                     console.error(`  Non-200 for ${destName} ${month}/${year}`);
-                    continue;
-                }
+                    consecutiveErrors++;
+                } else {
+                    consecutiveErrors = 0;
+                    const data = typeof res.data === 'string' ? JSON.parse(res.data) : res.data;
+                    const trips = parseTripsFromHtml(data.html || '', dest);
 
-                const data = typeof res.data === 'string' ? JSON.parse(res.data) : res.data;
-                const trips = parseTripsFromHtml(data.html || '', dest);
-
-                if (trips.length > 0) {
-                    allTrips.push(...trips);
-                    console.log(`  ${month}/${year}: ${trips.length} trips`);
-                    successCount++;
+                    if (trips.length > 0) {
+                        allTrips.push(...trips);
+                        console.log(`  ${month}/${year}: ${trips.length} trips`);
+                        successCount++;
+                    }
                 }
             } catch (err) {
                 console.error(`  Error ${destName} ${month}/${year}: ${err.message}`);
+                consecutiveErrors++;
+            }
+
+            if (consecutiveErrors >= MAX_CONSECUTIVE_ERRORS) {
+                console.warn(`  ${MAX_CONSECUTIVE_ERRORS} consecutive errors for ${dest.label} — skipping remaining months`);
+                break;
             }
 
             await delay(CONFIG.delayBetweenRequests);
@@ -232,6 +263,12 @@ async function reconoceEmperor() {
     });
 
     console.log(`\nEmperor reconocido complete: ${uniqueTrips.length} unique trips from ${successCount} successful month queries`);
+
+    if (uniqueTrips.length === 0) {
+        console.warn('No trips scraped — keeping existing data file intact to avoid overwriting good data with empty.');
+        process.exitCode = 1;
+        return;
+    }
 
     if (!fs.existsSync('./data')) fs.mkdirSync('./data');
 
