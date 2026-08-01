@@ -1,0 +1,43 @@
+name: Data accuracy check
+
+on:
+  schedule:
+    - cron: '30 7 * * *'   # daily 7:30 UTC, after the 6:23 UTC scrape
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install
+      - name: Run data accuracy check
+        run: node data-check.js
+      - name: Publish report to run summary
+        if: always()
+        run: cat data-check-report.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+      - name: Open or update issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          BODY_FILE=data-check-report.md
+          [ -f "$BODY_FILE" ] || echo "data-check.js crashed before writing a report — see the workflow run log." > "$BODY_FILE"
+          echo "" >> "$BODY_FILE"
+          echo "_Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}_" >> "$BODY_FILE"
+          EXISTING=$(gh issue list --state open --json number,title --jq '.[] | select(.title | startswith("[data-check]")) | .number' | head -1)
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body-file "$BODY_FILE"
+          else
+            gh issue create --title "[data-check] scraped data failed accuracy checks" --body-file "$BODY_FILE"
+          fi
