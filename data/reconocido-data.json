@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T11:46:17.380Z",
+  "lastUpdated": "2026-10-15T18:40:35.086Z",
   "totalTrips": 360,
   "filteredOut": "FULL trips excluded from results",
   "source": "l-a.com",
@@ -26,7 +26,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:44:54.909Z"
+      "reconocidoAt": "2026-10-15T18:39:12.429Z"
     },
     {
       "name": "Danubio Azul",
@@ -49,7 +49,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:44:54.909Z"
+      "reconocidoAt": "2026-10-15T18:39:12.429Z"
     },
     {
       "name": "Aqua",
@@ -72,7 +72,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:44:54.909Z"
+      "reconocidoAt": "2026-10-15T18:39:12.429Z"
     },
     {
       "name": "Aqua",
@@ -95,17 +95,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:44:54.909Z"
+      "reconocidoAt": "2026-10-15T18:39:12.429Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "09 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,363",
-      "originalPrice": 6363,
-      "crossedRate": "€6,698",
-      "yourPrice": "€6,698",
+      "price": "€6,377",
+      "originalPrice": 6377,
+      "crossedRate": "€6,713",
+      "yourPrice": "€6,713",
       "availability": "only 2 spaces left",
       "isAvailable": false,
       "spotsLeft": 2,
@@ -118,17 +118,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.966Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "16 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,693",
-      "originalPrice": 5693,
-      "crossedRate": "€6,698",
-      "yourPrice": "€6,698",
+      "price": "€5,706",
+      "originalPrice": 5706,
+      "crossedRate": "€6,713",
+      "yourPrice": "€6,713",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 7,
@@ -141,17 +141,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.966Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "30 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,698",
-      "originalPrice": 6698,
+      "price": "€6,713",
+      "originalPrice": 6713,
       "crossedRate": "",
-      "yourPrice": "€7,702.7",
+      "yourPrice": "€7,719.95",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -164,17 +164,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.966Z"
     },
     {
       "name": "Aqua",
       "date": "08 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€4,639",
-      "originalPrice": 4639,
+      "price": "€4,650",
+      "originalPrice": 4650,
       "crossedRate": "",
-      "yourPrice": "€5,334.85",
+      "yourPrice": "€5,347.5",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -187,17 +187,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.966Z"
     },
     {
       "name": "Aqua",
       "date": "22 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€4,175",
-      "originalPrice": 4175,
-      "crossedRate": "€4,639",
-      "yourPrice": "€4,639",
+      "price": "€4,185",
+      "originalPrice": 4185,
+      "crossedRate": "€4,650",
+      "yourPrice": "€4,650",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -210,17 +210,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.966Z"
     },
     {
       "name": "Galapagos Master",
       "date": "07 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€4,782",
-      "originalPrice": 4782,
-      "crossedRate": "€6,376",
-      "yourPrice": "€6,376",
+      "price": "€4,793",
+      "originalPrice": 4793,
+      "crossedRate": "€6,390",
+      "yourPrice": "€6,390",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 11,
@@ -233,17 +233,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Galapagos Master",
       "date": "14 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€4,782",
-      "originalPrice": 4782,
-      "crossedRate": "€6,376",
-      "yourPrice": "€6,376",
+      "price": "€4,793",
+      "originalPrice": 4793,
+      "crossedRate": "€6,390",
+      "yourPrice": "€6,390",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 11,
@@ -256,17 +256,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Galapagos Master",
       "date": "21 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,376",
-      "originalPrice": 6376,
+      "price": "€6,390",
+      "originalPrice": 6390,
       "crossedRate": "",
-      "yourPrice": "€7,332.4",
+      "yourPrice": "€7,348.5",
       "availability": "only 3 spaces left",
       "isAvailable": false,
       "spotsLeft": 3,
@@ -279,17 +279,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Galapagos Master",
       "date": "28 Dec 2026",
       "duration": "11D/10N",
       "currency": "EUR",
-      "price": "€9,287",
-      "originalPrice": 9287,
+      "price": "€9,308",
+      "originalPrice": 9308,
       "crossedRate": "",
-      "yourPrice": "€10,680.05",
+      "yourPrice": "€10,704.2",
       "availability": "only 3 spaces left",
       "isAvailable": false,
       "spotsLeft": 3,
@@ -302,17 +302,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Calipso Dive",
       "date": "17 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,943",
-      "originalPrice": 5943,
-      "crossedRate": "€6,604",
-      "yourPrice": "€6,604",
+      "price": "€5,957",
+      "originalPrice": 5957,
+      "crossedRate": "€6,619",
+      "yourPrice": "€6,619",
       "availability": "only 3 spaces left",
       "isAvailable": false,
       "spotsLeft": 3,
@@ -325,17 +325,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Calipso Dive",
       "date": "24 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,604",
-      "originalPrice": 6604,
+      "price": "€6,619",
+      "originalPrice": 6619,
       "crossedRate": "",
-      "yourPrice": "€7,594.6",
+      "yourPrice": "€7,611.85",
       "availability": "only 2 spaces left",
       "isAvailable": false,
       "spotsLeft": 2,
@@ -348,17 +348,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "24 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,519",
-      "originalPrice": 6519,
+      "price": "€6,534",
+      "originalPrice": 6534,
       "crossedRate": "",
-      "yourPrice": "€7,496.85",
+      "yourPrice": "€7,514.1",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 8,
@@ -371,17 +371,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Humboldt Explorer",
       "date": "14 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,711",
-      "originalPrice": 5711,
+      "price": "€5,724",
+      "originalPrice": 5724,
       "crossedRate": "",
-      "yourPrice": "€6,567.65",
+      "yourPrice": "€6,582.6",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -394,17 +394,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Humboldt Explorer",
       "date": "21 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,711",
-      "originalPrice": 5711,
+      "price": "€5,724",
+      "originalPrice": 5724,
       "crossedRate": "",
-      "yourPrice": "€6,567.65",
+      "yourPrice": "€6,582.6",
       "availability": "only 2 spaces left",
       "isAvailable": false,
       "spotsLeft": 2,
@@ -417,17 +417,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Galapagos Sky",
       "date": "20 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,693",
-      "originalPrice": 6693,
+      "price": "€6,708",
+      "originalPrice": 6708,
       "crossedRate": "",
-      "yourPrice": "€7,696.95",
+      "yourPrice": "€7,714.2",
       "availability": "only 5 spaces left",
       "isAvailable": false,
       "spotsLeft": 5,
@@ -440,17 +440,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Tiburon Explorer",
       "date": "05 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,604",
-      "originalPrice": 6604,
+      "price": "€6,619",
+      "originalPrice": 6619,
       "crossedRate": "",
-      "yourPrice": "€7,594.6",
+      "yourPrice": "€7,611.85",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -463,17 +463,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Tiburon Explorer",
       "date": "19 Dec 2026",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,604",
-      "originalPrice": 6604,
+      "price": "€6,619",
+      "originalPrice": 6619,
       "crossedRate": "",
-      "yourPrice": "€7,594.6",
+      "yourPrice": "€7,611.85",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -486,17 +486,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:44:58.465Z"
+      "reconocidoAt": "2026-10-15T18:39:15.967Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "06 Jan 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,858",
-      "originalPrice": 5858,
-      "crossedRate": "€7,323",
-      "yourPrice": "€7,323",
+      "price": "€5,871",
+      "originalPrice": 5871,
+      "crossedRate": "€7,339",
+      "yourPrice": "€7,339",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 7,
@@ -509,17 +509,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "13 Jan 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,858",
-      "originalPrice": 5858,
-      "crossedRate": "€7,323",
-      "yourPrice": "€7,323",
+      "price": "€5,871",
+      "originalPrice": 5871,
+      "crossedRate": "€7,339",
+      "yourPrice": "€7,339",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 12,
@@ -532,17 +532,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "07 Jan 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 11,
@@ -555,17 +555,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "14 Jan 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€4,923",
-      "originalPrice": 4923,
-      "crossedRate": "€6,564",
-      "yourPrice": "€6,564",
+      "price": "€4,934",
+      "originalPrice": 4934,
+      "crossedRate": "€6,578",
+      "yourPrice": "€6,578",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -578,17 +578,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "21 Jan 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 11,
@@ -601,7 +601,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -624,7 +624,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Danubio Azul",
@@ -647,7 +647,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Galapagos Master",
@@ -670,7 +670,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -693,17 +693,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Galapagos Sky",
       "date": "10 Jan 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,359",
-      "originalPrice": 6359,
-      "crossedRate": "€6,693",
-      "yourPrice": "€6,693",
+      "price": "€6,373",
+      "originalPrice": 6373,
+      "crossedRate": "€6,708",
+      "yourPrice": "€6,708",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 11,
@@ -716,7 +716,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:02.030Z"
+      "reconocidoAt": "2026-10-15T18:39:19.659Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -739,7 +739,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -762,7 +762,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -785,7 +785,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Danubio Azul",
@@ -808,7 +808,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Calipso Dive",
@@ -831,7 +831,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -854,7 +854,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Aqua",
@@ -877,7 +877,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Galapagos Sky",
@@ -900,17 +900,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:05.615Z"
+      "reconocidoAt": "2026-10-15T18:39:23.160Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "03 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,224",
-      "originalPrice": 6224,
-      "crossedRate": "€7,323",
-      "yourPrice": "€7,323",
+      "price": "€6,238",
+      "originalPrice": 6238,
+      "crossedRate": "€7,339",
+      "yourPrice": "€7,339",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 11,
@@ -923,17 +923,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "10 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,224",
-      "originalPrice": 6224,
-      "crossedRate": "€7,323",
-      "yourPrice": "€7,323",
+      "price": "€6,238",
+      "originalPrice": 6238,
+      "crossedRate": "€7,339",
+      "yourPrice": "€7,339",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 12,
@@ -946,17 +946,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "17 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,224",
-      "originalPrice": 6224,
-      "crossedRate": "€7,323",
-      "yourPrice": "€7,323",
+      "price": "€6,238",
+      "originalPrice": 6238,
+      "crossedRate": "€7,339",
+      "yourPrice": "€7,339",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 10,
@@ -969,17 +969,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "24 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,224",
-      "originalPrice": 6224,
-      "crossedRate": "€7,323",
-      "yourPrice": "€7,323",
+      "price": "€6,238",
+      "originalPrice": 6238,
+      "crossedRate": "€7,339",
+      "yourPrice": "€7,339",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 10,
@@ -992,17 +992,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "31 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,858",
-      "originalPrice": 5858,
-      "crossedRate": "€7,323",
-      "yourPrice": "€7,323",
+      "price": "€5,871",
+      "originalPrice": 5871,
+      "crossedRate": "€7,339",
+      "yourPrice": "€7,339",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -1015,17 +1015,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "04 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 6,
@@ -1038,17 +1038,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "11 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 14,
@@ -1061,17 +1061,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "18 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 14,
@@ -1084,17 +1084,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "25 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 10,
@@ -1107,17 +1107,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Calipso Dive",
       "date": "11 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,943",
-      "originalPrice": 5943,
-      "crossedRate": "€6,604",
-      "yourPrice": "€6,604",
+      "price": "€5,957",
+      "originalPrice": 5957,
+      "crossedRate": "€6,619",
+      "yourPrice": "€6,619",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 10,
@@ -1130,17 +1130,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Calipso Dive",
       "date": "25 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,943",
-      "originalPrice": 5943,
-      "crossedRate": "€6,604",
-      "yourPrice": "€6,604",
+      "price": "€5,957",
+      "originalPrice": 5957,
+      "crossedRate": "€6,619",
+      "yourPrice": "€6,619",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -1153,7 +1153,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Master",
@@ -1176,7 +1176,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Master",
@@ -1199,7 +1199,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -1222,7 +1222,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -1245,7 +1245,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Danubio Azul",
@@ -1268,17 +1268,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Aqua",
       "date": "16 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€4,818",
-      "originalPrice": 4818,
+      "price": "€4,829",
+      "originalPrice": 4829,
       "crossedRate": "",
-      "yourPrice": "€5,540.7",
+      "yourPrice": "€5,553.35",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -1291,17 +1291,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Sky",
       "date": "07 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,693",
-      "originalPrice": 6693,
+      "price": "€6,708",
+      "originalPrice": 6708,
       "crossedRate": "",
-      "yourPrice": "€7,696.95",
+      "yourPrice": "€7,714.2",
       "availability": "only 2 spaces left",
       "isAvailable": false,
       "spotsLeft": 2,
@@ -1314,17 +1314,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Galapagos Sky",
       "date": "28 Mar 2027",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,693",
-      "originalPrice": 6693,
+      "price": "€6,708",
+      "originalPrice": 6708,
       "crossedRate": "",
-      "yourPrice": "€7,696.95",
+      "yourPrice": "€7,714.2",
       "availability": "only 1 space left",
       "isAvailable": false,
       "spotsLeft": 1,
@@ -1337,7 +1337,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:09.143Z"
+      "reconocidoAt": "2026-10-15T18:39:26.731Z"
     },
     {
       "name": "Aqua",
@@ -1360,7 +1360,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Aqua",
@@ -1383,7 +1383,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Aqua",
@@ -1406,7 +1406,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Aqua",
@@ -1429,7 +1429,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1452,7 +1452,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1475,7 +1475,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1498,7 +1498,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1521,7 +1521,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1544,7 +1544,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1567,7 +1567,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Master",
@@ -1590,7 +1590,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Master",
@@ -1613,7 +1613,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Calipso Dive",
@@ -1636,7 +1636,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Danubio Azul",
@@ -1659,7 +1659,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Sky",
@@ -1682,7 +1682,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Sky",
@@ -1705,7 +1705,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Sky",
@@ -1728,7 +1728,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galapagos Sky",
@@ -1751,7 +1751,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -1774,7 +1774,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -1797,7 +1797,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.735Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -1820,7 +1820,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.736Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -1843,7 +1843,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:12.736Z"
+      "reconocidoAt": "2026-10-15T18:39:30.248Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1866,7 +1866,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1889,7 +1889,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -1912,7 +1912,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1935,7 +1935,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1958,7 +1958,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -1981,7 +1981,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2004,7 +2004,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Aqua",
@@ -2027,7 +2027,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Aqua",
@@ -2050,7 +2050,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Master",
@@ -2073,7 +2073,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Master",
@@ -2096,7 +2096,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Master",
@@ -2119,7 +2119,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Danubio Azul",
@@ -2142,7 +2142,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2165,7 +2165,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2188,7 +2188,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2211,7 +2211,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2234,7 +2234,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2257,7 +2257,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2280,7 +2280,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2303,7 +2303,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2326,7 +2326,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2349,7 +2349,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2372,7 +2372,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:16.337Z"
+      "reconocidoAt": "2026-10-15T18:39:34.015Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2395,7 +2395,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2418,7 +2418,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2441,7 +2441,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2464,7 +2464,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Danubio Azul",
@@ -2487,7 +2487,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Danubio Azul",
@@ -2510,7 +2510,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Danubio Azul",
@@ -2533,7 +2533,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2556,7 +2556,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2579,7 +2579,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Calipso Dive",
@@ -2602,7 +2602,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2625,7 +2625,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2648,7 +2648,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2671,7 +2671,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galapagos Sky",
@@ -2694,7 +2694,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:19.963Z"
+      "reconocidoAt": "2026-10-15T18:39:37.560Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -2717,7 +2717,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2740,7 +2740,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -2763,7 +2763,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Danubio Azul",
@@ -2786,7 +2786,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Danubio Azul",
@@ -2809,7 +2809,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Danubio Azul",
@@ -2832,7 +2832,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Danubio Azul",
@@ -2855,7 +2855,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Galapagos Master",
@@ -2878,7 +2878,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2901,7 +2901,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -2924,7 +2924,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -2947,7 +2947,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:23.575Z"
+      "reconocidoAt": "2026-10-15T18:39:41.187Z"
     },
     {
       "name": "Danubio Azul",
@@ -2970,7 +2970,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:27.173Z"
+      "reconocidoAt": "2026-10-15T18:39:44.766Z"
     },
     {
       "name": "Danubio Azul",
@@ -2993,7 +2993,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:27.173Z"
+      "reconocidoAt": "2026-10-15T18:39:44.766Z"
     },
     {
       "name": "Danubio Azul",
@@ -3016,7 +3016,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:27.174Z"
+      "reconocidoAt": "2026-10-15T18:39:44.766Z"
     },
     {
       "name": "Danubio Azul",
@@ -3039,7 +3039,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:27.174Z"
+      "reconocidoAt": "2026-10-15T18:39:44.766Z"
     },
     {
       "name": "Calipso Dive",
@@ -3062,7 +3062,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:27.174Z"
+      "reconocidoAt": "2026-10-15T18:39:44.766Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -3085,7 +3085,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:27.174Z"
+      "reconocidoAt": "2026-10-15T18:39:44.766Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -3108,7 +3108,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:27.174Z"
+      "reconocidoAt": "2026-10-15T18:39:44.766Z"
     },
     {
       "name": "Danubio Azul",
@@ -3131,7 +3131,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.748Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Danubio Azul",
@@ -3154,7 +3154,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.748Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Danubio Azul",
@@ -3177,7 +3177,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.748Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Danubio Azul",
@@ -3200,7 +3200,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.748Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3223,7 +3223,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.749Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -3246,7 +3246,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.749Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -3269,7 +3269,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.749Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Galapagos Master",
@@ -3292,7 +3292,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.749Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Aqua",
@@ -3315,7 +3315,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.749Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Galapagos Sky",
@@ -3338,7 +3338,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:30.749Z"
+      "reconocidoAt": "2026-10-15T18:39:48.298Z"
     },
     {
       "name": "Danubio Azul",
@@ -3361,7 +3361,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:34.324Z"
+      "reconocidoAt": "2026-10-15T18:39:51.916Z"
     },
     {
       "name": "Danubio Azul",
@@ -3384,7 +3384,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:34.324Z"
+      "reconocidoAt": "2026-10-15T18:39:51.916Z"
     },
     {
       "name": "Danubio Azul",
@@ -3407,7 +3407,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:34.324Z"
+      "reconocidoAt": "2026-10-15T18:39:51.916Z"
     },
     {
       "name": "Danubio Azul",
@@ -3430,7 +3430,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:34.324Z"
+      "reconocidoAt": "2026-10-15T18:39:51.916Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3453,7 +3453,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3476,7 +3476,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3499,7 +3499,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Calipso Dive",
@@ -3522,7 +3522,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Danubio Azul",
@@ -3545,7 +3545,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Danubio Azul",
@@ -3568,7 +3568,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Danubio Azul",
@@ -3591,7 +3591,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Danubio Azul",
@@ -3614,7 +3614,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:37.924Z"
+      "reconocidoAt": "2026-10-15T18:39:55.535Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3637,7 +3637,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3660,7 +3660,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3683,7 +3683,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -3706,7 +3706,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -3729,7 +3729,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -3752,7 +3752,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -3775,7 +3775,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Aqua",
@@ -3798,7 +3798,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Aqua",
@@ -3821,7 +3821,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Calipso Dive",
@@ -3844,7 +3844,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Calipso Dive",
@@ -3867,7 +3867,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Master",
@@ -3890,7 +3890,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -3913,7 +3913,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Danubio Azul",
@@ -3936,7 +3936,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Danubio Azul",
@@ -3959,7 +3959,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Sky",
@@ -3982,7 +3982,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.523Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4005,7 +4005,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.524Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4028,7 +4028,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.524Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Galapagos Sky",
@@ -4051,7 +4051,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.524Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4074,17 +4074,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:41.524Z"
+      "reconocidoAt": "2026-10-15T18:39:59.176Z"
     },
     {
       "name": "Aqua",
       "date": "04 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4097,17 +4097,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Aqua",
       "date": "11 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4120,17 +4120,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Aqua",
       "date": "18 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 13,
@@ -4143,17 +4143,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "05 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4166,17 +4166,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "12 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4189,17 +4189,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "19 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4212,17 +4212,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "26 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4235,109 +4235,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
-    },
-    {
-      "name": "Galapagos Aggressor III",
-      "date": "06 Jan 2028",
-      "duration": "8D/7N",
-      "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
-      "crossedRate": "",
-      "yourPrice": "€7,548.6",
-      "availability": "available",
-      "isAvailable": true,
-      "spotsLeft": 16,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "9.1",
-      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
-        "alt": "Galapagos Aggressor III"
-      },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
-    },
-    {
-      "name": "Galapagos Aggressor III",
-      "date": "13 Jan 2028",
-      "duration": "8D/7N",
-      "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
-      "crossedRate": "",
-      "yourPrice": "€7,548.6",
-      "availability": "available",
-      "isAvailable": true,
-      "spotsLeft": 16,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "9.1",
-      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
-        "alt": "Galapagos Aggressor III"
-      },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
-    },
-    {
-      "name": "Galapagos Aggressor III",
-      "date": "20 Jan 2028",
-      "duration": "8D/7N",
-      "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
-      "crossedRate": "",
-      "yourPrice": "€7,548.6",
-      "availability": "available",
-      "isAvailable": true,
-      "spotsLeft": 16,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "9.1",
-      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
-        "alt": "Galapagos Aggressor III"
-      },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
-    },
-    {
-      "name": "Galapagos Aggressor III",
-      "date": "27 Jan 2028",
-      "duration": "8D/7N",
-      "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
-      "crossedRate": "",
-      "yourPrice": "€7,548.6",
-      "availability": "available",
-      "isAvailable": true,
-      "spotsLeft": 16,
-      "discountPercentage": null,
-      "discountText": "",
-      "hasDiscount": false,
-      "rating": "9.1",
-      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
-      "photo": {
-        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
-        "alt": "Galapagos Aggressor III"
-      },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galapagos Master",
       "date": "03 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,764",
-      "originalPrice": 6764,
+      "price": "€6,779",
+      "originalPrice": 6779,
       "crossedRate": "",
-      "yourPrice": "€7,778.6",
+      "yourPrice": "€7,795.85",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4350,17 +4258,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galapagos Master",
       "date": "10 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,764",
-      "originalPrice": 6764,
+      "price": "€6,779",
+      "originalPrice": 6779,
       "crossedRate": "",
-      "yourPrice": "€7,778.6",
+      "yourPrice": "€7,795.85",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4373,17 +4281,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galapagos Master",
       "date": "17 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,764",
-      "originalPrice": 6764,
+      "price": "€6,779",
+      "originalPrice": 6779,
       "crossedRate": "",
-      "yourPrice": "€7,778.6",
+      "yourPrice": "€7,795.85",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4396,17 +4304,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galapagos Master",
       "date": "24 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,764",
-      "originalPrice": 6764,
+      "price": "€6,779",
+      "originalPrice": 6779,
       "crossedRate": "",
-      "yourPrice": "€7,778.6",
+      "yourPrice": "€7,795.85",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 14,
@@ -4419,17 +4327,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Galapagos Master",
       "date": "31 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,764",
-      "originalPrice": 6764,
+      "price": "€6,779",
+      "originalPrice": 6779,
       "crossedRate": "",
-      "yourPrice": "€7,778.6",
+      "yourPrice": "€7,795.85",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 14,
@@ -4442,17 +4350,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Calipso Dive",
       "date": "27 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,782",
-      "originalPrice": 6782,
+      "price": "€6,798",
+      "originalPrice": 6798,
       "crossedRate": "",
-      "yourPrice": "€7,799.3",
+      "yourPrice": "€7,817.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4465,17 +4373,109 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
+    },
+    {
+      "name": "Galapagos Aggressor III",
+      "date": "06 Jan 2028",
+      "duration": "8D/7N",
+      "currency": "EUR",
+      "price": "€6,578",
+      "originalPrice": 6578,
+      "crossedRate": "",
+      "yourPrice": "€7,564.7",
+      "availability": "available",
+      "isAvailable": true,
+      "spotsLeft": 16,
+      "discountPercentage": null,
+      "discountText": "",
+      "hasDiscount": false,
+      "rating": "9.1",
+      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
+      "photo": {
+        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
+        "alt": "Galapagos Aggressor III"
+      },
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
+    },
+    {
+      "name": "Galapagos Aggressor III",
+      "date": "13 Jan 2028",
+      "duration": "8D/7N",
+      "currency": "EUR",
+      "price": "€6,578",
+      "originalPrice": 6578,
+      "crossedRate": "",
+      "yourPrice": "€7,564.7",
+      "availability": "available",
+      "isAvailable": true,
+      "spotsLeft": 16,
+      "discountPercentage": null,
+      "discountText": "",
+      "hasDiscount": false,
+      "rating": "9.1",
+      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
+      "photo": {
+        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
+        "alt": "Galapagos Aggressor III"
+      },
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
+    },
+    {
+      "name": "Galapagos Aggressor III",
+      "date": "20 Jan 2028",
+      "duration": "8D/7N",
+      "currency": "EUR",
+      "price": "€6,578",
+      "originalPrice": 6578,
+      "crossedRate": "",
+      "yourPrice": "€7,564.7",
+      "availability": "available",
+      "isAvailable": true,
+      "spotsLeft": 16,
+      "discountPercentage": null,
+      "discountText": "",
+      "hasDiscount": false,
+      "rating": "9.1",
+      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
+      "photo": {
+        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
+        "alt": "Galapagos Aggressor III"
+      },
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
+    },
+    {
+      "name": "Galapagos Aggressor III",
+      "date": "27 Jan 2028",
+      "duration": "8D/7N",
+      "currency": "EUR",
+      "price": "€6,578",
+      "originalPrice": 6578,
+      "crossedRate": "",
+      "yourPrice": "€7,564.7",
+      "availability": "available",
+      "isAvailable": true,
+      "spotsLeft": 16,
+      "discountPercentage": null,
+      "discountText": "",
+      "hasDiscount": false,
+      "rating": "9.1",
+      "description": "Join the Galapagos Aggressor III for unforgettable diving in the Galapagos Islands. Up to 4 dives per day and time spent at Darwin and Wolf to dive with schooling hammerheads and playful sea lions. Enjoy comfortable lodgings and top-class service.",
+      "photo": {
+        "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
+        "alt": "Galapagos Aggressor III"
+      },
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Humboldt Explorer",
       "date": "03 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,800",
-      "originalPrice": 5800,
+      "price": "€5,813",
+      "originalPrice": 5813,
       "crossedRate": "",
-      "yourPrice": "€6,670",
+      "yourPrice": "€6,684.95",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4488,17 +4488,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Humboldt Explorer",
       "date": "10 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,800",
-      "originalPrice": 5800,
+      "price": "€5,813",
+      "originalPrice": 5813,
       "crossedRate": "",
-      "yourPrice": "€6,670",
+      "yourPrice": "€6,684.95",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4511,17 +4511,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Humboldt Explorer",
       "date": "17 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,800",
-      "originalPrice": 5800,
+      "price": "€5,813",
+      "originalPrice": 5813,
       "crossedRate": "",
-      "yourPrice": "€6,670",
+      "yourPrice": "€6,684.95",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -4534,17 +4534,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Tiburon Explorer",
       "date": "08 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,693",
-      "originalPrice": 6693,
+      "price": "€6,708",
+      "originalPrice": 6708,
       "crossedRate": "",
-      "yourPrice": "€7,696.95",
+      "yourPrice": "€7,714.2",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 10,
@@ -4557,17 +4557,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Tiburon Explorer",
       "date": "15 Jan 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,693",
-      "originalPrice": 6693,
+      "price": "€6,708",
+      "originalPrice": 6708,
       "crossedRate": "",
-      "yourPrice": "€7,696.95",
+      "yourPrice": "€7,714.2",
       "availability": "only 2 spaces left",
       "isAvailable": false,
       "spotsLeft": 2,
@@ -4580,7 +4580,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Danubio Azul",
@@ -4603,7 +4603,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Danubio Azul",
@@ -4626,7 +4626,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:45.065Z"
+      "reconocidoAt": "2026-10-15T18:40:02.807Z"
     },
     {
       "name": "Aqua",
@@ -4649,7 +4649,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Aqua",
@@ -4672,7 +4672,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Aqua",
@@ -4695,7 +4695,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Aqua",
@@ -4718,7 +4718,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Calipso Dive",
@@ -4741,7 +4741,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Calipso Dive",
@@ -4764,7 +4764,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4787,7 +4787,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -4810,7 +4810,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4833,7 +4833,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4856,7 +4856,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -4879,7 +4879,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Galapagos Master",
@@ -4902,7 +4902,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Galapagos Master",
@@ -4925,7 +4925,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -4948,7 +4948,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -4971,7 +4971,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -4994,7 +4994,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Danubio Azul",
@@ -5017,7 +5017,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5040,7 +5040,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:48.670Z"
+      "reconocidoAt": "2026-10-15T18:40:06.370Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5063,7 +5063,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5086,7 +5086,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5109,7 +5109,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5132,7 +5132,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5155,7 +5155,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -5178,7 +5178,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -5201,7 +5201,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -5224,7 +5224,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -5247,7 +5247,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Aqua",
@@ -5270,7 +5270,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Aqua",
@@ -5293,7 +5293,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Aqua",
@@ -5316,7 +5316,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Aqua",
@@ -5339,7 +5339,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Calipso Dive",
@@ -5362,7 +5362,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5385,7 +5385,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5408,7 +5408,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5431,7 +5431,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5454,7 +5454,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Danubio Azul",
@@ -5477,7 +5477,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5500,7 +5500,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5523,7 +5523,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5546,7 +5546,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galapagos Sky",
@@ -5569,7 +5569,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:52.262Z"
+      "reconocidoAt": "2026-10-15T18:40:09.884Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -5592,7 +5592,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -5615,7 +5615,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Aqua",
@@ -5638,7 +5638,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Aqua",
@@ -5661,7 +5661,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Aqua",
@@ -5684,7 +5684,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Master",
@@ -5707,7 +5707,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Master",
@@ -5730,7 +5730,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Master",
@@ -5753,7 +5753,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Calipso Dive",
@@ -5776,7 +5776,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Calipso Dive",
@@ -5799,7 +5799,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5822,7 +5822,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5845,7 +5845,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5868,7 +5868,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -5891,7 +5891,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5914,7 +5914,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5937,7 +5937,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -5960,7 +5960,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Danubio Azul",
@@ -5983,7 +5983,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -6006,7 +6006,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6029,7 +6029,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6052,7 +6052,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6075,7 +6075,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6098,7 +6098,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6121,7 +6121,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:55.873Z"
+      "reconocidoAt": "2026-10-15T18:40:13.510Z"
     },
     {
       "name": "Galapagos Master",
@@ -6144,7 +6144,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Master",
@@ -6167,7 +6167,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Master",
@@ -6190,7 +6190,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Master",
@@ -6213,17 +6213,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "03 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6236,17 +6236,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "10 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6259,17 +6259,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "17 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6282,17 +6282,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "24 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6305,17 +6305,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "31 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6328,17 +6328,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "04 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6351,17 +6351,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "11 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6374,17 +6374,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "18 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6397,17 +6397,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "25 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 8,
@@ -6420,17 +6420,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Aqua",
       "date": "02 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6443,17 +6443,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Aqua",
       "date": "09 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6466,17 +6466,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Aqua",
       "date": "16 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6489,17 +6489,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Aqua",
       "date": "23 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6512,17 +6512,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Aqua",
       "date": "30 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6535,17 +6535,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Calipso Dive",
       "date": "04 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,782",
-      "originalPrice": 6782,
+      "price": "€6,798",
+      "originalPrice": 6798,
       "crossedRate": "",
-      "yourPrice": "€7,799.3",
+      "yourPrice": "€7,817.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6558,17 +6558,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Calipso Dive",
       "date": "18 May 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,782",
-      "originalPrice": 6782,
+      "price": "€6,798",
+      "originalPrice": 6798,
       "crossedRate": "",
-      "yourPrice": "€7,799.3",
+      "yourPrice": "€7,817.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -6581,7 +6581,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Danubio Azul",
@@ -6604,7 +6604,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6627,7 +6627,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galapagos Sky",
@@ -6650,7 +6650,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:45:59.444Z"
+      "reconocidoAt": "2026-10-15T18:40:17.184Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6673,7 +6673,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6696,7 +6696,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6719,7 +6719,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -6742,7 +6742,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6765,7 +6765,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6788,7 +6788,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6811,7 +6811,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galapagos Aggressor III",
@@ -6834,7 +6834,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Aqua",
@@ -6857,7 +6857,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Aqua",
@@ -6880,7 +6880,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Aqua",
@@ -6903,7 +6903,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Aqua",
@@ -6926,7 +6926,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Calipso Dive",
@@ -6949,7 +6949,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Calipso Dive",
@@ -6972,7 +6972,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5901/roundingarco.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Calipso Dive"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Danubio Azul",
@@ -6995,7 +6995,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Danubio Azul",
@@ -7018,7 +7018,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7041,7 +7041,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7064,7 +7064,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galapagos Sky",
@@ -7087,7 +7087,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Tiburon Explorer",
@@ -7110,17 +7110,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6013/tiburon-3.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Tiburon Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:46:03.050Z"
+      "reconocidoAt": "2026-10-15T18:40:20.766Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "05 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7133,17 +7133,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "12 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 13,
@@ -7156,17 +7156,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "19 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 14,
@@ -7179,17 +7179,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "26 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7202,17 +7202,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Aqua",
       "date": "04 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,175",
-      "originalPrice": 5175,
+      "price": "€5,187",
+      "originalPrice": 5187,
       "crossedRate": "",
-      "yourPrice": "€5,951.25",
+      "yourPrice": "€5,965.05",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7225,17 +7225,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Aqua",
       "date": "11 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,951",
-      "originalPrice": 5951,
+      "price": "€5,965",
+      "originalPrice": 5965,
       "crossedRate": "",
-      "yourPrice": "€6,843.65",
+      "yourPrice": "€6,859.75",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 14,
@@ -7248,17 +7248,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "06 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7271,17 +7271,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "13 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7294,17 +7294,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "20 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7317,17 +7317,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "27 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 14,
@@ -7340,7 +7340,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galapagos Master",
@@ -7363,7 +7363,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -7386,7 +7386,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Danubio Azul",
@@ -7409,7 +7409,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Danubio Azul",
@@ -7432,7 +7432,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Danubio Azul",
@@ -7455,17 +7455,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galapagos Sky",
       "date": "30 Jul 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,961",
-      "originalPrice": 6961,
+      "price": "€6,977",
+      "originalPrice": 6977,
       "crossedRate": "",
-      "yourPrice": "€8,005.15",
+      "yourPrice": "€8,023.55",
       "availability": "only 2 spaces left",
       "isAvailable": false,
       "spotsLeft": 2,
@@ -7478,17 +7478,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:46:06.609Z"
+      "reconocidoAt": "2026-10-15T18:40:24.413Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "02 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7501,17 +7501,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "09 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 16,
@@ -7524,17 +7524,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "16 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 13,
@@ -7547,17 +7547,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Aqua",
       "date": "01 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,951",
-      "originalPrice": 5951,
+      "price": "€5,965",
+      "originalPrice": 5965,
       "crossedRate": "",
-      "yourPrice": "€6,843.65",
+      "yourPrice": "€6,859.75",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 9,
@@ -7570,17 +7570,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Aqua",
       "date": "29 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€5,951",
-      "originalPrice": 5951,
+      "price": "€5,965",
+      "originalPrice": 5965,
       "crossedRate": "",
-      "yourPrice": "€6,843.65",
+      "yourPrice": "€6,859.75",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 15,
@@ -7593,17 +7593,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "03 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 6,
@@ -7616,17 +7616,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "17 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "only 5 spaces left",
       "isAvailable": false,
       "spotsLeft": 5,
@@ -7639,17 +7639,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Galapagos Aggressor III",
       "date": "31 Aug 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€6,564",
-      "originalPrice": 6564,
+      "price": "€6,578",
+      "originalPrice": 6578,
       "crossedRate": "",
-      "yourPrice": "€7,548.6",
+      "yourPrice": "€7,564.7",
       "availability": "only 2 spaces left",
       "isAvailable": false,
       "spotsLeft": 2,
@@ -7662,7 +7662,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4377/galapagosaggressor-iii.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Aggressor III"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Danubio Azul",
@@ -7685,7 +7685,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Danubio Azul",
@@ -7708,7 +7708,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Danubio Azul",
@@ -7731,7 +7731,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Danubio Azul",
@@ -7754,7 +7754,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Danubio Azul",
@@ -7777,7 +7777,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -7800,7 +7800,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:46:10.199Z"
+      "reconocidoAt": "2026-10-15T18:40:28.118Z"
     },
     {
       "name": "Aqua",
@@ -7823,7 +7823,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Aqua",
@@ -7846,7 +7846,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Aqua",
@@ -7869,7 +7869,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5818/aqua-exterior-1.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Aqua"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -7892,7 +7892,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Galaxy Diver II",
@@ -7915,7 +7915,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Danubio Azul",
@@ -7938,7 +7938,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Danubio Azul",
@@ -7961,7 +7961,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Danubio Azul",
@@ -7984,7 +7984,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Danubio Azul",
@@ -8007,7 +8007,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8030,7 +8030,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Galapagos Sky",
@@ -8053,17 +8053,17 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:46:13.817Z"
+      "reconocidoAt": "2026-10-15T18:40:31.615Z"
     },
     {
       "name": "Galaxy Diver II",
       "date": "11 Oct 2028",
       "duration": "8D/7N",
       "currency": "EUR",
-      "price": "€7,859",
-      "originalPrice": 7859,
+      "price": "€7,876",
+      "originalPrice": 7876,
       "crossedRate": "",
-      "yourPrice": "€9,037.85",
+      "yourPrice": "€9,057.4",
       "availability": "available",
       "isAvailable": true,
       "spotsLeft": 8,
@@ -8076,7 +8076,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/6209/galaxydiver2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galaxy Diver II"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8099,7 +8099,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Humboldt Explorer",
@@ -8122,7 +8122,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4423/hex_at-sea9.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Humboldt Explorer"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Danubio Azul",
@@ -8145,7 +8145,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Danubio Azul",
@@ -8168,7 +8168,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Danubio Azul",
@@ -8191,7 +8191,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Danubio Azul",
@@ -8214,7 +8214,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Danubio Azul",
@@ -8237,7 +8237,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/5663/danubio-2.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Danubio Azul"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Galapagos Master",
@@ -8260,7 +8260,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4456/Galapagos-Master---Extra-Large-(2)-k.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Master"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     },
     {
       "name": "Galapagos Sky",
@@ -8283,7 +8283,7 @@
         "url": "https://img.liveaboard.com/picture_library/boat/4425/mack0555.jpg?tr=w-360,h-240,f-webp,fo-boat",
         "alt": "Galapagos Sky"
       },
-      "reconocidoAt": "2026-10-15T11:46:17.380Z"
+      "reconocidoAt": "2026-10-15T18:40:35.085Z"
     }
   ]
 }
